@@ -1,0 +1,1501 @@
+CustomerKey,CustomerID,CompanyName,Industry,CustomerTier,CreditLimit
+1,CUST-00001,Company_1 Lda,Pharmaceutical,Bronze,50000
+2,CUST-00002,Company_2 Lda,Manufacturing,Bronze,50000
+3,CUST-00003,Company_3 Lda,E-commerce,Bronze,10000
+4,CUST-00004,Company_4 Lda,Food Distributor,Bronze,50000
+5,CUST-00005,Company_5 Lda,Retail,Bronze,50000
+6,CUST-00006,Company_6 Lda,Retail,Bronze,150000
+7,CUST-00007,Company_7 Lda,Retail,Bronze,150000
+8,CUST-00008,Company_8 Lda,E-commerce,Bronze,10000
+9,CUST-00009,Company_9 Lda,Food Distributor,Silver,50000
+10,CUST-00010,Company_10 Lda,E-commerce,Silver,10000
+11,CUST-00011,Company_11 Lda,Retail,Silver,50000
+12,CUST-00012,Company_12 Lda,Manufacturing,Silver,10000
+13,CUST-00013,Company_13 Lda,E-commerce,Gold,10000
+14,CUST-00014,Company_14 Lda,Retail,Bronze,10000
+15,CUST-00015,Company_15 Lda,Retail,Bronze,50000
+16,CUST-00016,Company_16 Lda,Retail,Bronze,10000
+17,CUST-00017,Company_17 Lda,Pharmaceutical,Silver,50000
+18,CUST-00018,Company_18 Lda,Food Distributor,Silver,10000
+19,CUST-00019,Company_19 Lda,Automotive,Bronze,10000
+20,CUST-00020,Company_20 Lda,Retail,Gold,50000
+21,CUST-00021,Company_21 Lda,Food Distributor,Bronze,10000
+22,CUST-00022,Company_22 Lda,Retail,Gold,10000
+23,CUST-00023,Company_23 Lda,Retail,Bronze,50000
+24,CUST-00024,Company_24 Lda,Pharmaceutical,Bronze,10000
+25,CUST-00025,Company_25 Lda,Automotive,Bronze,10000
+26,CUST-00026,Company_26 Lda,E-commerce,Bronze,10000
+27,CUST-00027,Company_27 Lda,Retail,Bronze,150000
+28,CUST-00028,Company_28 Lda,Food Distributor,Bronze,50000
+29,CUST-00029,Company_29 Lda,Food Distributor,Silver,50000
+30,CUST-00030,Company_30 Lda,Retail,Bronze,50000
+31,CUST-00031,Company_31 Lda,Food Distributor,Bronze,10000
+32,CUST-00032,Company_32 Lda,Retail,Silver,10000
+33,CUST-00033,Company_33 Lda,Retail,Silver,50000
+34,CUST-00034,Company_34 Lda,Manufacturing,Bronze,10000
+35,CUST-00035,Company_35 Lda,Manufacturing,Bronze,10000
+36,CUST-00036,Company_36 Lda,E-commerce,Bronze,10000
+37,CUST-00037,Company_37 Lda,Pharmaceutical,Bronze,10000
+38,CUST-00038,Company_38 Lda,Retail,Silver,500000
+39,CUST-00039,Company_39 Lda,Food Distributor,Bronze,10000
+40,CUST-00040,Company_40 Lda,Automotive,Bronze,50000
+41,CUST-00041,Company_41 Lda,Retail,Silver,10000
+42,CUST-00042,Company_42 Lda,Automotive,Bronze,500000
+43,CUST-00043,Company_43 Lda,Retail,Bronze,10000
+44,CUST-00044,Company_44 Lda,Manufacturing,Bronze,10000
+45,CUST-00045,Company_45 Lda,Retail,Gold,50000
+46,CUST-00046,Company_46 Lda,Food Distributor,Bronze,50000
+47,CUST-00047,Company_47 Lda,Pharmaceutical,Silver,10000
+48,CUST-00048,Company_48 Lda,Food Distributor,Bronze,10000
+49,CUST-00049,Company_49 Lda,Food Distributor,Bronze,10000
+50,CUST-00050,Company_50 Lda,Retail,Silver,10000
+51,CUST-00051,Company_51 Lda,Manufacturing,Gold,10000
+52,CUST-00052,Company_52 Lda,E-commerce,Silver,10000
+53,CUST-00053,Company_53 Lda,Manufacturing,Silver,10000
+54,CUST-00054,Company_54 Lda,E-commerce,Silver,10000
+55,CUST-00055,Company_55 Lda,Food Distributor,Bronze,50000
+56,CUST-00056,Company_56 Lda,Manufacturing,Bronze,500000
+57,CUST-00057,Company_57 Lda,Retail,Silver,50000
+58,CUST-00058,Company_58 Lda,Retail,Bronze,10000
+59,CUST-00059,Company_59 Lda,Retail,Silver,10000
+60,CUST-00060,Company_60 Lda,Pharmaceutical,Gold,500000
+61,CUST-00061,Company_61 Lda,Pharmaceutical,Bronze,10000
+62,CUST-00062,Company_62 Lda,Retail,Bronze,10000
+63,CUST-00063,Company_63 Lda,E-commerce,Silver,50000
+64,CUST-00064,Company_64 Lda,Pharmaceutical,Bronze,50000
+65,CUST-00065,Company_65 Lda,Retail,Silver,50000
+66,CUST-00066,Company_66 Lda,Food Distributor,Bronze,10000
+67,CUST-00067,Company_67 Lda,Retail,Silver,10000
+68,CUST-00068,Company_68 Lda,E-commerce,Bronze,500000
+69,CUST-00069,Company_69 Lda,Retail,Silver,10000
+70,CUST-00070,Company_70 Lda,Manufacturing,Bronze,50000
+71,CUST-00071,Company_71 Lda,E-commerce,Bronze,50000
+72,CUST-00072,Company_72 Lda,Retail,Bronze,50000
+73,CUST-00073,Company_73 Lda,Retail,Silver,10000
+74,CUST-00074,Company_74 Lda,E-commerce,Silver,10000
+75,CUST-00075,Company_75 Lda,E-commerce,Bronze,50000
+76,CUST-00076,Company_76 Lda,E-commerce,Bronze,150000
+77,CUST-00077,Company_77 Lda,E-commerce,Bronze,150000
+78,CUST-00078,Company_78 Lda,Retail,Silver,10000
+79,CUST-00079,Company_79 Lda,Pharmaceutical,Silver,10000
+80,CUST-00080,Company_80 Lda,Retail,Bronze,150000
+81,CUST-00081,Company_81 Lda,E-commerce,Bronze,50000
+82,CUST-00082,Company_82 Lda,Food Distributor,Bronze,150000
+83,CUST-00083,Company_83 Lda,Pharmaceutical,Bronze,10000
+84,CUST-00084,Company_84 Lda,Retail,Bronze,50000
+85,CUST-00085,Company_85 Lda,Pharmaceutical,Gold,50000
+86,CUST-00086,Company_86 Lda,Pharmaceutical,Bronze,50000
+87,CUST-00087,Company_87 Lda,E-commerce,Silver,10000
+88,CUST-00088,Company_88 Lda,Food Distributor,Bronze,10000
+89,CUST-00089,Company_89 Lda,E-commerce,Bronze,50000
+90,CUST-00090,Company_90 Lda,Automotive,Silver,10000
+91,CUST-00091,Company_91 Lda,Retail,Silver,10000
+92,CUST-00092,Company_92 Lda,E-commerce,Gold,500000
+93,CUST-00093,Company_93 Lda,E-commerce,Bronze,10000
+94,CUST-00094,Company_94 Lda,Food Distributor,Bronze,150000
+95,CUST-00095,Company_95 Lda,E-commerce,Silver,10000
+96,CUST-00096,Company_96 Lda,Automotive,Bronze,50000
+97,CUST-00097,Company_97 Lda,Food Distributor,Bronze,500000
+98,CUST-00098,Company_98 Lda,Automotive,Bronze,10000
+99,CUST-00099,Company_99 Lda,Retail,Bronze,10000
+100,CUST-00100,Company_100 Lda,Retail,Silver,10000
+101,CUST-00101,Company_101 Lda,Retail,Bronze,10000
+102,CUST-00102,Company_102 Lda,Food Distributor,Bronze,50000
+103,CUST-00103,Company_103 Lda,Pharmaceutical,Bronze,150000
+104,CUST-00104,Company_104 Lda,Food Distributor,Bronze,10000
+105,CUST-00105,Company_105 Lda,Manufacturing,Bronze,10000
+106,CUST-00106,Company_106 Lda,Retail,Bronze,10000
+107,CUST-00107,Company_107 Lda,Automotive,Bronze,50000
+108,CUST-00108,Company_108 Lda,E-commerce,Silver,10000
+109,CUST-00109,Company_109 Lda,Retail,Bronze,50000
+110,CUST-00110,Company_110 Lda,Retail,Bronze,50000
+111,CUST-00111,Company_111 Lda,Retail,Silver,50000
+112,CUST-00112,Company_112 Lda,Retail,Silver,10000
+113,CUST-00113,Company_113 Lda,Manufacturing,Bronze,50000
+114,CUST-00114,Company_114 Lda,E-commerce,Bronze,10000
+115,CUST-00115,Company_115 Lda,Food Distributor,Bronze,10000
+116,CUST-00116,Company_116 Lda,E-commerce,Silver,150000
+117,CUST-00117,Company_117 Lda,E-commerce,Gold,50000
+118,CUST-00118,Company_118 Lda,Retail,Silver,10000
+119,CUST-00119,Company_119 Lda,E-commerce,Bronze,10000
+120,CUST-00120,Company_120 Lda,Food Distributor,Silver,10000
+121,CUST-00121,Company_121 Lda,E-commerce,Bronze,10000
+122,CUST-00122,Company_122 Lda,E-commerce,Bronze,10000
+123,CUST-00123,Company_123 Lda,Pharmaceutical,Bronze,10000
+124,CUST-00124,Company_124 Lda,Retail,Gold,10000
+125,CUST-00125,Company_125 Lda,Retail,Bronze,50000
+126,CUST-00126,Company_126 Lda,Automotive,Silver,50000
+127,CUST-00127,Company_127 Lda,E-commerce,Bronze,50000
+128,CUST-00128,Company_128 Lda,E-commerce,Bronze,10000
+129,CUST-00129,Company_129 Lda,Retail,Bronze,500000
+130,CUST-00130,Company_130 Lda,Food Distributor,Bronze,150000
+131,CUST-00131,Company_131 Lda,Automotive,Silver,150000
+132,CUST-00132,Company_132 Lda,Retail,Bronze,150000
+133,CUST-00133,Company_133 Lda,Retail,Silver,150000
+134,CUST-00134,Company_134 Lda,Pharmaceutical,Silver,50000
+135,CUST-00135,Company_135 Lda,Manufacturing,Gold,10000
+136,CUST-00136,Company_136 Lda,Pharmaceutical,Bronze,50000
+137,CUST-00137,Company_137 Lda,Food Distributor,Bronze,50000
+138,CUST-00138,Company_138 Lda,E-commerce,Bronze,50000
+139,CUST-00139,Company_139 Lda,Pharmaceutical,Gold,50000
+140,CUST-00140,Company_140 Lda,Manufacturing,Gold,10000
+141,CUST-00141,Company_141 Lda,Manufacturing,Bronze,10000
+142,CUST-00142,Company_142 Lda,Retail,Silver,150000
+143,CUST-00143,Company_143 Lda,Automotive,Bronze,50000
+144,CUST-00144,Company_144 Lda,Pharmaceutical,Silver,50000
+145,CUST-00145,Company_145 Lda,Retail,Bronze,10000
+146,CUST-00146,Company_146 Lda,Retail,Silver,10000
+147,CUST-00147,Company_147 Lda,Food Distributor,Bronze,150000
+148,CUST-00148,Company_148 Lda,Food Distributor,Silver,50000
+149,CUST-00149,Company_149 Lda,Retail,Silver,50000
+150,CUST-00150,Company_150 Lda,Retail,Silver,10000
+151,CUST-00151,Company_151 Lda,Manufacturing,Bronze,50000
+152,CUST-00152,Company_152 Lda,Retail,Bronze,10000
+153,CUST-00153,Company_153 Lda,Retail,Bronze,50000
+154,CUST-00154,Company_154 Lda,Automotive,Bronze,10000
+155,CUST-00155,Company_155 Lda,Manufacturing,Bronze,10000
+156,CUST-00156,Company_156 Lda,Retail,Gold,50000
+157,CUST-00157,Company_157 Lda,Food Distributor,Bronze,150000
+158,CUST-00158,Company_158 Lda,E-commerce,Bronze,10000
+159,CUST-00159,Company_159 Lda,Retail,Bronze,150000
+160,CUST-00160,Company_160 Lda,E-commerce,Bronze,10000
+161,CUST-00161,Company_161 Lda,Pharmaceutical,Silver,10000
+162,CUST-00162,Company_162 Lda,Food Distributor,Bronze,10000
+163,CUST-00163,Company_163 Lda,Food Distributor,Gold,10000
+164,CUST-00164,Company_164 Lda,Food Distributor,Bronze,50000
+165,CUST-00165,Company_165 Lda,Retail,Gold,10000
+166,CUST-00166,Company_166 Lda,E-commerce,Silver,10000
+167,CUST-00167,Company_167 Lda,Pharmaceutical,Bronze,150000
+168,CUST-00168,Company_168 Lda,Retail,Gold,10000
+169,CUST-00169,Company_169 Lda,Retail,Bronze,50000
+170,CUST-00170,Company_170 Lda,Food Distributor,Silver,10000
+171,CUST-00171,Company_171 Lda,Food Distributor,Bronze,50000
+172,CUST-00172,Company_172 Lda,Retail,Silver,10000
+173,CUST-00173,Company_173 Lda,Food Distributor,Silver,10000
+174,CUST-00174,Company_174 Lda,Retail,Silver,10000
+175,CUST-00175,Company_175 Lda,Food Distributor,Silver,10000
+176,CUST-00176,Company_176 Lda,Retail,Bronze,10000
+177,CUST-00177,Company_177 Lda,Food Distributor,Bronze,50000
+178,CUST-00178,Company_178 Lda,Pharmaceutical,Bronze,150000
+179,CUST-00179,Company_179 Lda,Manufacturing,Bronze,150000
+180,CUST-00180,Company_180 Lda,Retail,Silver,50000
+181,CUST-00181,Company_181 Lda,Pharmaceutical,Bronze,10000
+182,CUST-00182,Company_182 Lda,Retail,Gold,10000
+183,CUST-00183,Company_183 Lda,Manufacturing,Silver,10000
+184,CUST-00184,Company_184 Lda,E-commerce,Silver,10000
+185,CUST-00185,Company_185 Lda,Retail,Bronze,50000
+186,CUST-00186,Company_186 Lda,Food Distributor,Silver,50000
+187,CUST-00187,Company_187 Lda,E-commerce,Gold,10000
+188,CUST-00188,Company_188 Lda,Food Distributor,Bronze,10000
+189,CUST-00189,Company_189 Lda,Food Distributor,Silver,150000
+190,CUST-00190,Company_190 Lda,Retail,Silver,50000
+191,CUST-00191,Company_191 Lda,Retail,Bronze,10000
+192,CUST-00192,Company_192 Lda,E-commerce,Bronze,150000
+193,CUST-00193,Company_193 Lda,Manufacturing,Bronze,500000
+194,CUST-00194,Company_194 Lda,Food Distributor,Bronze,10000
+195,CUST-00195,Company_195 Lda,Pharmaceutical,Bronze,10000
+196,CUST-00196,Company_196 Lda,Pharmaceutical,Bronze,50000
+197,CUST-00197,Company_197 Lda,E-commerce,Bronze,150000
+198,CUST-00198,Company_198 Lda,E-commerce,Bronze,150000
+199,CUST-00199,Company_199 Lda,E-commerce,Gold,10000
+200,CUST-00200,Company_200 Lda,E-commerce,Bronze,10000
+201,CUST-00201,Company_201 Lda,Food Distributor,Gold,50000
+202,CUST-00202,Company_202 Lda,Retail,Bronze,50000
+203,CUST-00203,Company_203 Lda,Retail,Bronze,10000
+204,CUST-00204,Company_204 Lda,E-commerce,Bronze,150000
+205,CUST-00205,Company_205 Lda,Food Distributor,Bronze,50000
+206,CUST-00206,Company_206 Lda,Retail,Bronze,150000
+207,CUST-00207,Company_207 Lda,Retail,Silver,150000
+208,CUST-00208,Company_208 Lda,Food Distributor,Bronze,50000
+209,CUST-00209,Company_209 Lda,Retail,Silver,10000
+210,CUST-00210,Company_210 Lda,Retail,Silver,50000
+211,CUST-00211,Company_211 Lda,Food Distributor,Bronze,10000
+212,CUST-00212,Company_212 Lda,Food Distributor,Bronze,50000
+213,CUST-00213,Company_213 Lda,Food Distributor,Silver,10000
+214,CUST-00214,Company_214 Lda,Retail,Bronze,50000
+215,CUST-00215,Company_215 Lda,E-commerce,Bronze,10000
+216,CUST-00216,Company_216 Lda,Retail,Gold,10000
+217,CUST-00217,Company_217 Lda,Pharmaceutical,Bronze,10000
+218,CUST-00218,Company_218 Lda,E-commerce,Silver,10000
+219,CUST-00219,Company_219 Lda,Food Distributor,Gold,50000
+220,CUST-00220,Company_220 Lda,E-commerce,Bronze,50000
+221,CUST-00221,Company_221 Lda,Food Distributor,Bronze,50000
+222,CUST-00222,Company_222 Lda,Food Distributor,Bronze,10000
+223,CUST-00223,Company_223 Lda,Retail,Bronze,10000
+224,CUST-00224,Company_224 Lda,Pharmaceutical,Bronze,10000
+225,CUST-00225,Company_225 Lda,Retail,Silver,10000
+226,CUST-00226,Company_226 Lda,Retail,Bronze,150000
+227,CUST-00227,Company_227 Lda,Manufacturing,Bronze,10000
+228,CUST-00228,Company_228 Lda,Pharmaceutical,Gold,10000
+229,CUST-00229,Company_229 Lda,E-commerce,Silver,10000
+230,CUST-00230,Company_230 Lda,Food Distributor,Silver,10000
+231,CUST-00231,Company_231 Lda,E-commerce,Bronze,50000
+232,CUST-00232,Company_232 Lda,Food Distributor,Silver,50000
+233,CUST-00233,Company_233 Lda,Food Distributor,Bronze,10000
+234,CUST-00234,Company_234 Lda,Automotive,Bronze,10000
+235,CUST-00235,Company_235 Lda,Retail,Bronze,10000
+236,CUST-00236,Company_236 Lda,E-commerce,Silver,10000
+237,CUST-00237,Company_237 Lda,Retail,Bronze,10000
+238,CUST-00238,Company_238 Lda,Retail,Bronze,500000
+239,CUST-00239,Company_239 Lda,Food Distributor,Bronze,50000
+240,CUST-00240,Company_240 Lda,Retail,Bronze,50000
+241,CUST-00241,Company_241 Lda,Manufacturing,Silver,10000
+242,CUST-00242,Company_242 Lda,Manufacturing,Silver,10000
+243,CUST-00243,Company_243 Lda,Manufacturing,Silver,50000
+244,CUST-00244,Company_244 Lda,Pharmaceutical,Bronze,50000
+245,CUST-00245,Company_245 Lda,Retail,Bronze,50000
+246,CUST-00246,Company_246 Lda,Manufacturing,Bronze,10000
+247,CUST-00247,Company_247 Lda,Automotive,Bronze,50000
+248,CUST-00248,Company_248 Lda,Manufacturing,Bronze,10000
+249,CUST-00249,Company_249 Lda,Manufacturing,Silver,150000
+250,CUST-00250,Company_250 Lda,E-commerce,Bronze,50000
+251,CUST-00251,Company_251 Lda,Retail,Bronze,50000
+252,CUST-00252,Company_252 Lda,Pharmaceutical,Bronze,10000
+253,CUST-00253,Company_253 Lda,E-commerce,Bronze,50000
+254,CUST-00254,Company_254 Lda,Pharmaceutical,Bronze,10000
+255,CUST-00255,Company_255 Lda,Retail,Gold,10000
+256,CUST-00256,Company_256 Lda,Food Distributor,Silver,10000
+257,CUST-00257,Company_257 Lda,Manufacturing,Gold,50000
+258,CUST-00258,Company_258 Lda,Food Distributor,Bronze,10000
+259,CUST-00259,Company_259 Lda,Food Distributor,Bronze,10000
+260,CUST-00260,Company_260 Lda,Retail,Bronze,150000
+261,CUST-00261,Company_261 Lda,Food Distributor,Bronze,10000
+262,CUST-00262,Company_262 Lda,Manufacturing,Silver,50000
+263,CUST-00263,Company_263 Lda,Retail,Bronze,10000
+264,CUST-00264,Company_264 Lda,Food Distributor,Bronze,10000
+265,CUST-00265,Company_265 Lda,E-commerce,Bronze,50000
+266,CUST-00266,Company_266 Lda,E-commerce,Bronze,10000
+267,CUST-00267,Company_267 Lda,Food Distributor,Silver,10000
+268,CUST-00268,Company_268 Lda,E-commerce,Bronze,50000
+269,CUST-00269,Company_269 Lda,Pharmaceutical,Bronze,50000
+270,CUST-00270,Company_270 Lda,Retail,Bronze,50000
+271,CUST-00271,Company_271 Lda,E-commerce,Bronze,10000
+272,CUST-00272,Company_272 Lda,E-commerce,Silver,10000
+273,CUST-00273,Company_273 Lda,E-commerce,Silver,50000
+274,CUST-00274,Company_274 Lda,Manufacturing,Gold,50000
+275,CUST-00275,Company_275 Lda,Food Distributor,Silver,150000
+276,CUST-00276,Company_276 Lda,Food Distributor,Bronze,150000
+277,CUST-00277,Company_277 Lda,E-commerce,Silver,150000
+278,CUST-00278,Company_278 Lda,Food Distributor,Bronze,10000
+279,CUST-00279,Company_279 Lda,E-commerce,Bronze,10000
+280,CUST-00280,Company_280 Lda,E-commerce,Silver,50000
+281,CUST-00281,Company_281 Lda,E-commerce,Bronze,10000
+282,CUST-00282,Company_282 Lda,Pharmaceutical,Gold,10000
+283,CUST-00283,Company_283 Lda,Pharmaceutical,Bronze,150000
+284,CUST-00284,Company_284 Lda,Retail,Silver,150000
+285,CUST-00285,Company_285 Lda,Food Distributor,Silver,10000
+286,CUST-00286,Company_286 Lda,Retail,Silver,10000
+287,CUST-00287,Company_287 Lda,Automotive,Silver,10000
+288,CUST-00288,Company_288 Lda,Food Distributor,Silver,150000
+289,CUST-00289,Company_289 Lda,Retail,Bronze,150000
+290,CUST-00290,Company_290 Lda,Food Distributor,Bronze,10000
+291,CUST-00291,Company_291 Lda,Retail,Bronze,10000
+292,CUST-00292,Company_292 Lda,Retail,Silver,150000
+293,CUST-00293,Company_293 Lda,E-commerce,Bronze,10000
+294,CUST-00294,Company_294 Lda,Pharmaceutical,Silver,50000
+295,CUST-00295,Company_295 Lda,Retail,Bronze,500000
+296,CUST-00296,Company_296 Lda,Food Distributor,Bronze,10000
+297,CUST-00297,Company_297 Lda,E-commerce,Silver,50000
+298,CUST-00298,Company_298 Lda,Retail,Bronze,10000
+299,CUST-00299,Company_299 Lda,Food Distributor,Bronze,10000
+300,CUST-00300,Company_300 Lda,Retail,Bronze,150000
+301,CUST-00301,Company_301 Lda,Retail,Gold,10000
+302,CUST-00302,Company_302 Lda,Food Distributor,Silver,500000
+303,CUST-00303,Company_303 Lda,Food Distributor,Bronze,50000
+304,CUST-00304,Company_304 Lda,Food Distributor,Bronze,10000
+305,CUST-00305,Company_305 Lda,E-commerce,Bronze,10000
+306,CUST-00306,Company_306 Lda,Manufacturing,Silver,10000
+307,CUST-00307,Company_307 Lda,Food Distributor,Silver,10000
+308,CUST-00308,Company_308 Lda,Pharmaceutical,Bronze,10000
+309,CUST-00309,Company_309 Lda,E-commerce,Bronze,10000
+310,CUST-00310,Company_310 Lda,Retail,Bronze,10000
+311,CUST-00311,Company_311 Lda,Automotive,Silver,50000
+312,CUST-00312,Company_312 Lda,Retail,Silver,50000
+313,CUST-00313,Company_313 Lda,Retail,Bronze,50000
+314,CUST-00314,Company_314 Lda,Manufacturing,Bronze,10000
+315,CUST-00315,Company_315 Lda,E-commerce,Bronze,10000
+316,CUST-00316,Company_316 Lda,Food Distributor,Gold,50000
+317,CUST-00317,Company_317 Lda,Automotive,Bronze,10000
+318,CUST-00318,Company_318 Lda,Retail,Silver,10000
+319,CUST-00319,Company_319 Lda,Retail,Silver,150000
+320,CUST-00320,Company_320 Lda,Retail,Bronze,50000
+321,CUST-00321,Company_321 Lda,Food Distributor,Bronze,50000
+322,CUST-00322,Company_322 Lda,E-commerce,Bronze,10000
+323,CUST-00323,Company_323 Lda,Food Distributor,Silver,50000
+324,CUST-00324,Company_324 Lda,Retail,Silver,50000
+325,CUST-00325,Company_325 Lda,Manufacturing,Silver,50000
+326,CUST-00326,Company_326 Lda,E-commerce,Bronze,50000
+327,CUST-00327,Company_327 Lda,Food Distributor,Bronze,150000
+328,CUST-00328,Company_328 Lda,Food Distributor,Gold,50000
+329,CUST-00329,Company_329 Lda,Automotive,Silver,10000
+330,CUST-00330,Company_330 Lda,Retail,Bronze,50000
+331,CUST-00331,Company_331 Lda,Pharmaceutical,Gold,50000
+332,CUST-00332,Company_332 Lda,E-commerce,Silver,50000
+333,CUST-00333,Company_333 Lda,Retail,Bronze,10000
+334,CUST-00334,Company_334 Lda,Retail,Silver,10000
+335,CUST-00335,Company_335 Lda,Retail,Silver,150000
+336,CUST-00336,Company_336 Lda,Retail,Silver,50000
+337,CUST-00337,Company_337 Lda,E-commerce,Bronze,150000
+338,CUST-00338,Company_338 Lda,E-commerce,Bronze,50000
+339,CUST-00339,Company_339 Lda,Automotive,Gold,50000
+340,CUST-00340,Company_340 Lda,Retail,Bronze,50000
+341,CUST-00341,Company_341 Lda,Automotive,Bronze,150000
+342,CUST-00342,Company_342 Lda,Automotive,Bronze,50000
+343,CUST-00343,Company_343 Lda,Retail,Bronze,50000
+344,CUST-00344,Company_344 Lda,Automotive,Silver,10000
+345,CUST-00345,Company_345 Lda,Pharmaceutical,Gold,10000
+346,CUST-00346,Company_346 Lda,Food Distributor,Bronze,50000
+347,CUST-00347,Company_347 Lda,Food Distributor,Bronze,10000
+348,CUST-00348,Company_348 Lda,Retail,Bronze,10000
+349,CUST-00349,Company_349 Lda,Pharmaceutical,Silver,10000
+350,CUST-00350,Company_350 Lda,Food Distributor,Silver,10000
+351,CUST-00351,Company_351 Lda,Food Distributor,Bronze,10000
+352,CUST-00352,Company_352 Lda,E-commerce,Silver,10000
+353,CUST-00353,Company_353 Lda,Food Distributor,Silver,150000
+354,CUST-00354,Company_354 Lda,Retail,Silver,50000
+355,CUST-00355,Company_355 Lda,Retail,Gold,10000
+356,CUST-00356,Company_356 Lda,Food Distributor,Bronze,10000
+357,CUST-00357,Company_357 Lda,Retail,Silver,50000
+358,CUST-00358,Company_358 Lda,Food Distributor,Bronze,10000
+359,CUST-00359,Company_359 Lda,Manufacturing,Silver,150000
+360,CUST-00360,Company_360 Lda,Food Distributor,Silver,50000
+361,CUST-00361,Company_361 Lda,Pharmaceutical,Silver,50000
+362,CUST-00362,Company_362 Lda,Food Distributor,Silver,10000
+363,CUST-00363,Company_363 Lda,Automotive,Bronze,50000
+364,CUST-00364,Company_364 Lda,Food Distributor,Bronze,10000
+365,CUST-00365,Company_365 Lda,Manufacturing,Gold,150000
+366,CUST-00366,Company_366 Lda,Pharmaceutical,Gold,50000
+367,CUST-00367,Company_367 Lda,Manufacturing,Bronze,10000
+368,CUST-00368,Company_368 Lda,Manufacturing,Bronze,10000
+369,CUST-00369,Company_369 Lda,Retail,Bronze,10000
+370,CUST-00370,Company_370 Lda,Retail,Silver,50000
+371,CUST-00371,Company_371 Lda,Retail,Silver,10000
+372,CUST-00372,Company_372 Lda,Retail,Bronze,50000
+373,CUST-00373,Company_373 Lda,Retail,Bronze,10000
+374,CUST-00374,Company_374 Lda,Food Distributor,Silver,50000
+375,CUST-00375,Company_375 Lda,Retail,Silver,150000
+376,CUST-00376,Company_376 Lda,Pharmaceutical,Bronze,50000
+377,CUST-00377,Company_377 Lda,E-commerce,Bronze,50000
+378,CUST-00378,Company_378 Lda,Retail,Bronze,10000
+379,CUST-00379,Company_379 Lda,E-commerce,Bronze,10000
+380,CUST-00380,Company_380 Lda,Retail,Bronze,50000
+381,CUST-00381,Company_381 Lda,Retail,Silver,10000
+382,CUST-00382,Company_382 Lda,Food Distributor,Silver,10000
+383,CUST-00383,Company_383 Lda,Food Distributor,Silver,10000
+384,CUST-00384,Company_384 Lda,E-commerce,Silver,10000
+385,CUST-00385,Company_385 Lda,E-commerce,Bronze,10000
+386,CUST-00386,Company_386 Lda,E-commerce,Bronze,150000
+387,CUST-00387,Company_387 Lda,Retail,Bronze,10000
+388,CUST-00388,Company_388 Lda,Retail,Bronze,50000
+389,CUST-00389,Company_389 Lda,E-commerce,Silver,10000
+390,CUST-00390,Company_390 Lda,E-commerce,Gold,50000
+391,CUST-00391,Company_391 Lda,Manufacturing,Bronze,10000
+392,CUST-00392,Company_392 Lda,Automotive,Bronze,150000
+393,CUST-00393,Company_393 Lda,Pharmaceutical,Silver,150000
+394,CUST-00394,Company_394 Lda,E-commerce,Bronze,10000
+395,CUST-00395,Company_395 Lda,Pharmaceutical,Bronze,150000
+396,CUST-00396,Company_396 Lda,Manufacturing,Silver,500000
+397,CUST-00397,Company_397 Lda,E-commerce,Silver,150000
+398,CUST-00398,Company_398 Lda,Automotive,Bronze,150000
+399,CUST-00399,Company_399 Lda,E-commerce,Bronze,10000
+400,CUST-00400,Company_400 Lda,E-commerce,Silver,50000
+401,CUST-00401,Company_401 Lda,Retail,Bronze,10000
+402,CUST-00402,Company_402 Lda,Manufacturing,Bronze,10000
+403,CUST-00403,Company_403 Lda,Food Distributor,Silver,500000
+404,CUST-00404,Company_404 Lda,E-commerce,Bronze,10000
+405,CUST-00405,Company_405 Lda,Pharmaceutical,Silver,50000
+406,CUST-00406,Company_406 Lda,E-commerce,Bronze,150000
+407,CUST-00407,Company_407 Lda,Pharmaceutical,Gold,150000
+408,CUST-00408,Company_408 Lda,Retail,Bronze,500000
+409,CUST-00409,Company_409 Lda,Manufacturing,Bronze,10000
+410,CUST-00410,Company_410 Lda,Retail,Bronze,10000
+411,CUST-00411,Company_411 Lda,Pharmaceutical,Bronze,10000
+412,CUST-00412,Company_412 Lda,Manufacturing,Silver,10000
+413,CUST-00413,Company_413 Lda,Manufacturing,Gold,10000
+414,CUST-00414,Company_414 Lda,Food Distributor,Bronze,10000
+415,CUST-00415,Company_415 Lda,Food Distributor,Bronze,50000
+416,CUST-00416,Company_416 Lda,Automotive,Silver,50000
+417,CUST-00417,Company_417 Lda,Retail,Silver,10000
+418,CUST-00418,Company_418 Lda,Pharmaceutical,Bronze,50000
+419,CUST-00419,Company_419 Lda,Food Distributor,Bronze,10000
+420,CUST-00420,Company_420 Lda,E-commerce,Bronze,10000
+421,CUST-00421,Company_421 Lda,E-commerce,Silver,50000
+422,CUST-00422,Company_422 Lda,E-commerce,Bronze,50000
+423,CUST-00423,Company_423 Lda,Retail,Silver,50000
+424,CUST-00424,Company_424 Lda,Automotive,Bronze,10000
+425,CUST-00425,Company_425 Lda,Retail,Silver,150000
+426,CUST-00426,Company_426 Lda,Food Distributor,Bronze,50000
+427,CUST-00427,Company_427 Lda,Automotive,Bronze,50000
+428,CUST-00428,Company_428 Lda,E-commerce,Bronze,50000
+429,CUST-00429,Company_429 Lda,Pharmaceutical,Silver,150000
+430,CUST-00430,Company_430 Lda,Retail,Bronze,50000
+431,CUST-00431,Company_431 Lda,Retail,Bronze,50000
+432,CUST-00432,Company_432 Lda,E-commerce,Bronze,500000
+433,CUST-00433,Company_433 Lda,Food Distributor,Bronze,50000
+434,CUST-00434,Company_434 Lda,Retail,Silver,10000
+435,CUST-00435,Company_435 Lda,Retail,Silver,50000
+436,CUST-00436,Company_436 Lda,E-commerce,Silver,10000
+437,CUST-00437,Company_437 Lda,Retail,Bronze,10000
+438,CUST-00438,Company_438 Lda,E-commerce,Silver,50000
+439,CUST-00439,Company_439 Lda,E-commerce,Bronze,150000
+440,CUST-00440,Company_440 Lda,Retail,Bronze,150000
+441,CUST-00441,Company_441 Lda,Retail,Bronze,10000
+442,CUST-00442,Company_442 Lda,Manufacturing,Bronze,50000
+443,CUST-00443,Company_443 Lda,Pharmaceutical,Silver,10000
+444,CUST-00444,Company_444 Lda,Pharmaceutical,Silver,500000
+445,CUST-00445,Company_445 Lda,E-commerce,Silver,500000
+446,CUST-00446,Company_446 Lda,Manufacturing,Bronze,50000
+447,CUST-00447,Company_447 Lda,Manufacturing,Bronze,150000
+448,CUST-00448,Company_448 Lda,E-commerce,Bronze,50000
+449,CUST-00449,Company_449 Lda,Pharmaceutical,Bronze,50000
+450,CUST-00450,Company_450 Lda,Retail,Bronze,10000
+451,CUST-00451,Company_451 Lda,E-commerce,Bronze,10000
+452,CUST-00452,Company_452 Lda,Food Distributor,Bronze,50000
+453,CUST-00453,Company_453 Lda,Automotive,Bronze,50000
+454,CUST-00454,Company_454 Lda,Manufacturing,Silver,10000
+455,CUST-00455,Company_455 Lda,Retail,Gold,150000
+456,CUST-00456,Company_456 Lda,Automotive,Gold,10000
+457,CUST-00457,Company_457 Lda,Retail,Silver,50000
+458,CUST-00458,Company_458 Lda,Automotive,Bronze,50000
+459,CUST-00459,Company_459 Lda,Retail,Silver,50000
+460,CUST-00460,Company_460 Lda,Retail,Silver,50000
+461,CUST-00461,Company_461 Lda,Retail,Bronze,10000
+462,CUST-00462,Company_462 Lda,Food Distributor,Bronze,10000
+463,CUST-00463,Company_463 Lda,E-commerce,Silver,50000
+464,CUST-00464,Company_464 Lda,Food Distributor,Bronze,50000
+465,CUST-00465,Company_465 Lda,Manufacturing,Bronze,10000
+466,CUST-00466,Company_466 Lda,Pharmaceutical,Bronze,50000
+467,CUST-00467,Company_467 Lda,Retail,Bronze,10000
+468,CUST-00468,Company_468 Lda,E-commerce,Bronze,50000
+469,CUST-00469,Company_469 Lda,Retail,Bronze,150000
+470,CUST-00470,Company_470 Lda,Manufacturing,Bronze,10000
+471,CUST-00471,Company_471 Lda,Retail,Bronze,10000
+472,CUST-00472,Company_472 Lda,Manufacturing,Silver,50000
+473,CUST-00473,Company_473 Lda,Retail,Bronze,50000
+474,CUST-00474,Company_474 Lda,E-commerce,Bronze,50000
+475,CUST-00475,Company_475 Lda,Food Distributor,Bronze,150000
+476,CUST-00476,Company_476 Lda,Manufacturing,Gold,150000
+477,CUST-00477,Company_477 Lda,Retail,Bronze,500000
+478,CUST-00478,Company_478 Lda,Food Distributor,Bronze,50000
+479,CUST-00479,Company_479 Lda,Manufacturing,Silver,10000
+480,CUST-00480,Company_480 Lda,Food Distributor,Silver,10000
+481,CUST-00481,Company_481 Lda,Food Distributor,Bronze,10000
+482,CUST-00482,Company_482 Lda,Food Distributor,Silver,50000
+483,CUST-00483,Company_483 Lda,Automotive,Bronze,10000
+484,CUST-00484,Company_484 Lda,Food Distributor,Bronze,150000
+485,CUST-00485,Company_485 Lda,Food Distributor,Bronze,50000
+486,CUST-00486,Company_486 Lda,Manufacturing,Bronze,50000
+487,CUST-00487,Company_487 Lda,Retail,Silver,10000
+488,CUST-00488,Company_488 Lda,Retail,Bronze,10000
+489,CUST-00489,Company_489 Lda,Manufacturing,Bronze,10000
+490,CUST-00490,Company_490 Lda,E-commerce,Silver,10000
+491,CUST-00491,Company_491 Lda,Automotive,Silver,10000
+492,CUST-00492,Company_492 Lda,Food Distributor,Bronze,50000
+493,CUST-00493,Company_493 Lda,Retail,Silver,150000
+494,CUST-00494,Company_494 Lda,Retail,Bronze,150000
+495,CUST-00495,Company_495 Lda,Automotive,Silver,50000
+496,CUST-00496,Company_496 Lda,Pharmaceutical,Silver,10000
+497,CUST-00497,Company_497 Lda,Food Distributor,Gold,150000
+498,CUST-00498,Company_498 Lda,Retail,Bronze,150000
+499,CUST-00499,Company_499 Lda,Manufacturing,Bronze,10000
+500,CUST-00500,Company_500 Lda,Manufacturing,Bronze,50000
+501,CUST-00501,Company_501 Lda,Food Distributor,Bronze,10000
+502,CUST-00502,Company_502 Lda,Food Distributor,Bronze,150000
+503,CUST-00503,Company_503 Lda,Pharmaceutical,Gold,500000
+504,CUST-00504,Company_504 Lda,E-commerce,Bronze,10000
+505,CUST-00505,Company_505 Lda,Food Distributor,Bronze,150000
+506,CUST-00506,Company_506 Lda,Retail,Silver,50000
+507,CUST-00507,Company_507 Lda,Manufacturing,Bronze,500000
+508,CUST-00508,Company_508 Lda,E-commerce,Silver,10000
+509,CUST-00509,Company_509 Lda,Manufacturing,Bronze,150000
+510,CUST-00510,Company_510 Lda,E-commerce,Bronze,10000
+511,CUST-00511,Company_511 Lda,Food Distributor,Bronze,10000
+512,CUST-00512,Company_512 Lda,Automotive,Bronze,10000
+513,CUST-00513,Company_513 Lda,Manufacturing,Gold,500000
+514,CUST-00514,Company_514 Lda,E-commerce,Bronze,150000
+515,CUST-00515,Company_515 Lda,Retail,Bronze,150000
+516,CUST-00516,Company_516 Lda,Retail,Bronze,150000
+517,CUST-00517,Company_517 Lda,Pharmaceutical,Bronze,10000
+518,CUST-00518,Company_518 Lda,E-commerce,Silver,10000
+519,CUST-00519,Company_519 Lda,Manufacturing,Bronze,10000
+520,CUST-00520,Company_520 Lda,Retail,Silver,10000
+521,CUST-00521,Company_521 Lda,Food Distributor,Gold,10000
+522,CUST-00522,Company_522 Lda,Pharmaceutical,Bronze,10000
+523,CUST-00523,Company_523 Lda,Manufacturing,Gold,10000
+524,CUST-00524,Company_524 Lda,E-commerce,Bronze,10000
+525,CUST-00525,Company_525 Lda,E-commerce,Bronze,10000
+526,CUST-00526,Company_526 Lda,Automotive,Bronze,10000
+527,CUST-00527,Company_527 Lda,Automotive,Silver,500000
+528,CUST-00528,Company_528 Lda,Retail,Gold,50000
+529,CUST-00529,Company_529 Lda,Retail,Bronze,500000
+530,CUST-00530,Company_530 Lda,E-commerce,Silver,10000
+531,CUST-00531,Company_531 Lda,E-commerce,Bronze,10000
+532,CUST-00532,Company_532 Lda,Manufacturing,Bronze,50000
+533,CUST-00533,Company_533 Lda,Manufacturing,Bronze,10000
+534,CUST-00534,Company_534 Lda,Food Distributor,Gold,10000
+535,CUST-00535,Company_535 Lda,E-commerce,Silver,10000
+536,CUST-00536,Company_536 Lda,Manufacturing,Bronze,10000
+537,CUST-00537,Company_537 Lda,E-commerce,Bronze,10000
+538,CUST-00538,Company_538 Lda,Retail,Bronze,10000
+539,CUST-00539,Company_539 Lda,Automotive,Bronze,50000
+540,CUST-00540,Company_540 Lda,Retail,Bronze,10000
+541,CUST-00541,Company_541 Lda,Manufacturing,Silver,10000
+542,CUST-00542,Company_542 Lda,Food Distributor,Bronze,150000
+543,CUST-00543,Company_543 Lda,Retail,Bronze,10000
+544,CUST-00544,Company_544 Lda,Food Distributor,Bronze,10000
+545,CUST-00545,Company_545 Lda,Food Distributor,Silver,150000
+546,CUST-00546,Company_546 Lda,Pharmaceutical,Silver,10000
+547,CUST-00547,Company_547 Lda,Retail,Bronze,10000
+548,CUST-00548,Company_548 Lda,Food Distributor,Silver,10000
+549,CUST-00549,Company_549 Lda,Food Distributor,Bronze,10000
+550,CUST-00550,Company_550 Lda,E-commerce,Bronze,50000
+551,CUST-00551,Company_551 Lda,Food Distributor,Bronze,150000
+552,CUST-00552,Company_552 Lda,E-commerce,Bronze,10000
+553,CUST-00553,Company_553 Lda,Food Distributor,Bronze,50000
+554,CUST-00554,Company_554 Lda,Food Distributor,Gold,50000
+555,CUST-00555,Company_555 Lda,E-commerce,Silver,10000
+556,CUST-00556,Company_556 Lda,Automotive,Silver,50000
+557,CUST-00557,Company_557 Lda,Retail,Bronze,10000
+558,CUST-00558,Company_558 Lda,Retail,Bronze,10000
+559,CUST-00559,Company_559 Lda,E-commerce,Silver,10000
+560,CUST-00560,Company_560 Lda,Food Distributor,Bronze,10000
+561,CUST-00561,Company_561 Lda,E-commerce,Bronze,10000
+562,CUST-00562,Company_562 Lda,Retail,Bronze,150000
+563,CUST-00563,Company_563 Lda,Retail,Silver,10000
+564,CUST-00564,Company_564 Lda,Retail,Bronze,10000
+565,CUST-00565,Company_565 Lda,Pharmaceutical,Bronze,10000
+566,CUST-00566,Company_566 Lda,Food Distributor,Silver,50000
+567,CUST-00567,Company_567 Lda,Pharmaceutical,Bronze,50000
+568,CUST-00568,Company_568 Lda,Automotive,Bronze,50000
+569,CUST-00569,Company_569 Lda,Manufacturing,Bronze,50000
+570,CUST-00570,Company_570 Lda,Pharmaceutical,Bronze,150000
+571,CUST-00571,Company_571 Lda,Food Distributor,Silver,10000
+572,CUST-00572,Company_572 Lda,E-commerce,Bronze,50000
+573,CUST-00573,Company_573 Lda,Pharmaceutical,Bronze,150000
+574,CUST-00574,Company_574 Lda,Food Distributor,Silver,500000
+575,CUST-00575,Company_575 Lda,E-commerce,Silver,150000
+576,CUST-00576,Company_576 Lda,Manufacturing,Silver,10000
+577,CUST-00577,Company_577 Lda,Retail,Bronze,10000
+578,CUST-00578,Company_578 Lda,Manufacturing,Bronze,10000
+579,CUST-00579,Company_579 Lda,Automotive,Gold,50000
+580,CUST-00580,Company_580 Lda,Retail,Silver,10000
+581,CUST-00581,Company_581 Lda,Automotive,Bronze,10000
+582,CUST-00582,Company_582 Lda,Manufacturing,Bronze,150000
+583,CUST-00583,Company_583 Lda,Automotive,Bronze,10000
+584,CUST-00584,Company_584 Lda,Pharmaceutical,Gold,150000
+585,CUST-00585,Company_585 Lda,Food Distributor,Bronze,10000
+586,CUST-00586,Company_586 Lda,Retail,Bronze,10000
+587,CUST-00587,Company_587 Lda,Retail,Bronze,10000
+588,CUST-00588,Company_588 Lda,Retail,Silver,50000
+589,CUST-00589,Company_589 Lda,Retail,Silver,10000
+590,CUST-00590,Company_590 Lda,Retail,Bronze,10000
+591,CUST-00591,Company_591 Lda,Retail,Silver,500000
+592,CUST-00592,Company_592 Lda,Food Distributor,Gold,10000
+593,CUST-00593,Company_593 Lda,Retail,Bronze,50000
+594,CUST-00594,Company_594 Lda,Pharmaceutical,Bronze,50000
+595,CUST-00595,Company_595 Lda,E-commerce,Bronze,10000
+596,CUST-00596,Company_596 Lda,Automotive,Silver,50000
+597,CUST-00597,Company_597 Lda,Food Distributor,Bronze,10000
+598,CUST-00598,Company_598 Lda,Retail,Silver,50000
+599,CUST-00599,Company_599 Lda,Retail,Silver,10000
+600,CUST-00600,Company_600 Lda,Retail,Bronze,50000
+601,CUST-00601,Company_601 Lda,Retail,Gold,10000
+602,CUST-00602,Company_602 Lda,Retail,Bronze,50000
+603,CUST-00603,Company_603 Lda,Retail,Bronze,10000
+604,CUST-00604,Company_604 Lda,Retail,Silver,10000
+605,CUST-00605,Company_605 Lda,Retail,Silver,10000
+606,CUST-00606,Company_606 Lda,Automotive,Bronze,10000
+607,CUST-00607,Company_607 Lda,Retail,Silver,150000
+608,CUST-00608,Company_608 Lda,Pharmaceutical,Gold,10000
+609,CUST-00609,Company_609 Lda,Food Distributor,Bronze,150000
+610,CUST-00610,Company_610 Lda,Food Distributor,Gold,500000
+611,CUST-00611,Company_611 Lda,Retail,Bronze,50000
+612,CUST-00612,Company_612 Lda,E-commerce,Bronze,10000
+613,CUST-00613,Company_613 Lda,Food Distributor,Bronze,10000
+614,CUST-00614,Company_614 Lda,Retail,Silver,50000
+615,CUST-00615,Company_615 Lda,E-commerce,Silver,10000
+616,CUST-00616,Company_616 Lda,Manufacturing,Bronze,10000
+617,CUST-00617,Company_617 Lda,Retail,Bronze,50000
+618,CUST-00618,Company_618 Lda,Retail,Silver,150000
+619,CUST-00619,Company_619 Lda,E-commerce,Bronze,50000
+620,CUST-00620,Company_620 Lda,E-commerce,Silver,10000
+621,CUST-00621,Company_621 Lda,Retail,Silver,50000
+622,CUST-00622,Company_622 Lda,Retail,Bronze,10000
+623,CUST-00623,Company_623 Lda,Pharmaceutical,Gold,10000
+624,CUST-00624,Company_624 Lda,Automotive,Bronze,150000
+625,CUST-00625,Company_625 Lda,Food Distributor,Gold,10000
+626,CUST-00626,Company_626 Lda,Pharmaceutical,Silver,10000
+627,CUST-00627,Company_627 Lda,Automotive,Silver,10000
+628,CUST-00628,Company_628 Lda,E-commerce,Bronze,150000
+629,CUST-00629,Company_629 Lda,Retail,Silver,50000
+630,CUST-00630,Company_630 Lda,Retail,Bronze,50000
+631,CUST-00631,Company_631 Lda,E-commerce,Bronze,50000
+632,CUST-00632,Company_632 Lda,E-commerce,Bronze,10000
+633,CUST-00633,Company_633 Lda,Food Distributor,Bronze,10000
+634,CUST-00634,Company_634 Lda,Food Distributor,Bronze,10000
+635,CUST-00635,Company_635 Lda,Retail,Silver,10000
+636,CUST-00636,Company_636 Lda,Automotive,Silver,10000
+637,CUST-00637,Company_637 Lda,Food Distributor,Bronze,150000
+638,CUST-00638,Company_638 Lda,Retail,Silver,10000
+639,CUST-00639,Company_639 Lda,Retail,Bronze,10000
+640,CUST-00640,Company_640 Lda,Pharmaceutical,Silver,10000
+641,CUST-00641,Company_641 Lda,Retail,Silver,10000
+642,CUST-00642,Company_642 Lda,Pharmaceutical,Bronze,150000
+643,CUST-00643,Company_643 Lda,Retail,Silver,10000
+644,CUST-00644,Company_644 Lda,Pharmaceutical,Bronze,10000
+645,CUST-00645,Company_645 Lda,Retail,Bronze,50000
+646,CUST-00646,Company_646 Lda,E-commerce,Silver,10000
+647,CUST-00647,Company_647 Lda,Food Distributor,Bronze,10000
+648,CUST-00648,Company_648 Lda,Food Distributor,Bronze,10000
+649,CUST-00649,Company_649 Lda,E-commerce,Bronze,50000
+650,CUST-00650,Company_650 Lda,Automotive,Silver,500000
+651,CUST-00651,Company_651 Lda,Retail,Bronze,50000
+652,CUST-00652,Company_652 Lda,Food Distributor,Bronze,10000
+653,CUST-00653,Company_653 Lda,Food Distributor,Silver,150000
+654,CUST-00654,Company_654 Lda,E-commerce,Silver,10000
+655,CUST-00655,Company_655 Lda,Automotive,Bronze,10000
+656,CUST-00656,Company_656 Lda,Retail,Bronze,10000
+657,CUST-00657,Company_657 Lda,Retail,Bronze,10000
+658,CUST-00658,Company_658 Lda,Pharmaceutical,Bronze,50000
+659,CUST-00659,Company_659 Lda,Food Distributor,Bronze,50000
+660,CUST-00660,Company_660 Lda,Food Distributor,Silver,150000
+661,CUST-00661,Company_661 Lda,Pharmaceutical,Silver,50000
+662,CUST-00662,Company_662 Lda,Manufacturing,Silver,50000
+663,CUST-00663,Company_663 Lda,Food Distributor,Bronze,10000
+664,CUST-00664,Company_664 Lda,Retail,Silver,10000
+665,CUST-00665,Company_665 Lda,Retail,Bronze,50000
+666,CUST-00666,Company_666 Lda,Retail,Gold,10000
+667,CUST-00667,Company_667 Lda,Retail,Silver,150000
+668,CUST-00668,Company_668 Lda,Retail,Bronze,10000
+669,CUST-00669,Company_669 Lda,Retail,Silver,10000
+670,CUST-00670,Company_670 Lda,Retail,Bronze,10000
+671,CUST-00671,Company_671 Lda,Retail,Silver,10000
+672,CUST-00672,Company_672 Lda,E-commerce,Bronze,10000
+673,CUST-00673,Company_673 Lda,Retail,Bronze,50000
+674,CUST-00674,Company_674 Lda,Food Distributor,Silver,10000
+675,CUST-00675,Company_675 Lda,Automotive,Bronze,50000
+676,CUST-00676,Company_676 Lda,Manufacturing,Silver,10000
+677,CUST-00677,Company_677 Lda,Retail,Bronze,10000
+678,CUST-00678,Company_678 Lda,Pharmaceutical,Silver,10000
+679,CUST-00679,Company_679 Lda,Manufacturing,Silver,150000
+680,CUST-00680,Company_680 Lda,E-commerce,Bronze,10000
+681,CUST-00681,Company_681 Lda,E-commerce,Bronze,50000
+682,CUST-00682,Company_682 Lda,Retail,Bronze,10000
+683,CUST-00683,Company_683 Lda,Retail,Bronze,50000
+684,CUST-00684,Company_684 Lda,Food Distributor,Bronze,10000
+685,CUST-00685,Company_685 Lda,Manufacturing,Silver,50000
+686,CUST-00686,Company_686 Lda,Food Distributor,Gold,50000
+687,CUST-00687,Company_687 Lda,Food Distributor,Silver,150000
+688,CUST-00688,Company_688 Lda,Retail,Silver,10000
+689,CUST-00689,Company_689 Lda,E-commerce,Silver,10000
+690,CUST-00690,Company_690 Lda,Retail,Silver,10000
+691,CUST-00691,Company_691 Lda,Pharmaceutical,Bronze,150000
+692,CUST-00692,Company_692 Lda,Automotive,Gold,50000
+693,CUST-00693,Company_693 Lda,Food Distributor,Silver,50000
+694,CUST-00694,Company_694 Lda,Retail,Bronze,10000
+695,CUST-00695,Company_695 Lda,Retail,Bronze,10000
+696,CUST-00696,Company_696 Lda,Food Distributor,Bronze,10000
+697,CUST-00697,Company_697 Lda,Retail,Bronze,500000
+698,CUST-00698,Company_698 Lda,Food Distributor,Silver,50000
+699,CUST-00699,Company_699 Lda,Retail,Bronze,150000
+700,CUST-00700,Company_700 Lda,Automotive,Bronze,10000
+701,CUST-00701,Company_701 Lda,Food Distributor,Gold,50000
+702,CUST-00702,Company_702 Lda,Retail,Bronze,50000
+703,CUST-00703,Company_703 Lda,Pharmaceutical,Bronze,10000
+704,CUST-00704,Company_704 Lda,Retail,Bronze,150000
+705,CUST-00705,Company_705 Lda,Retail,Silver,150000
+706,CUST-00706,Company_706 Lda,Manufacturing,Gold,150000
+707,CUST-00707,Company_707 Lda,Pharmaceutical,Bronze,50000
+708,CUST-00708,Company_708 Lda,E-commerce,Silver,10000
+709,CUST-00709,Company_709 Lda,Retail,Bronze,10000
+710,CUST-00710,Company_710 Lda,Food Distributor,Gold,500000
+711,CUST-00711,Company_711 Lda,E-commerce,Silver,10000
+712,CUST-00712,Company_712 Lda,Food Distributor,Silver,50000
+713,CUST-00713,Company_713 Lda,Automotive,Bronze,50000
+714,CUST-00714,Company_714 Lda,Automotive,Gold,50000
+715,CUST-00715,Company_715 Lda,Pharmaceutical,Silver,500000
+716,CUST-00716,Company_716 Lda,Manufacturing,Bronze,10000
+717,CUST-00717,Company_717 Lda,E-commerce,Silver,10000
+718,CUST-00718,Company_718 Lda,Manufacturing,Bronze,10000
+719,CUST-00719,Company_719 Lda,Retail,Silver,10000
+720,CUST-00720,Company_720 Lda,E-commerce,Bronze,10000
+721,CUST-00721,Company_721 Lda,Manufacturing,Silver,10000
+722,CUST-00722,Company_722 Lda,Retail,Bronze,150000
+723,CUST-00723,Company_723 Lda,Retail,Bronze,150000
+724,CUST-00724,Company_724 Lda,E-commerce,Bronze,10000
+725,CUST-00725,Company_725 Lda,Food Distributor,Bronze,10000
+726,CUST-00726,Company_726 Lda,E-commerce,Bronze,150000
+727,CUST-00727,Company_727 Lda,Retail,Bronze,10000
+728,CUST-00728,Company_728 Lda,E-commerce,Bronze,10000
+729,CUST-00729,Company_729 Lda,Retail,Bronze,10000
+730,CUST-00730,Company_730 Lda,Retail,Bronze,50000
+731,CUST-00731,Company_731 Lda,Retail,Silver,10000
+732,CUST-00732,Company_732 Lda,E-commerce,Bronze,500000
+733,CUST-00733,Company_733 Lda,Food Distributor,Gold,10000
+734,CUST-00734,Company_734 Lda,Food Distributor,Silver,50000
+735,CUST-00735,Company_735 Lda,Pharmaceutical,Silver,10000
+736,CUST-00736,Company_736 Lda,E-commerce,Bronze,10000
+737,CUST-00737,Company_737 Lda,Pharmaceutical,Silver,50000
+738,CUST-00738,Company_738 Lda,E-commerce,Bronze,50000
+739,CUST-00739,Company_739 Lda,Automotive,Bronze,50000
+740,CUST-00740,Company_740 Lda,Pharmaceutical,Bronze,50000
+741,CUST-00741,Company_741 Lda,Automotive,Silver,150000
+742,CUST-00742,Company_742 Lda,Pharmaceutical,Bronze,150000
+743,CUST-00743,Company_743 Lda,E-commerce,Bronze,50000
+744,CUST-00744,Company_744 Lda,Food Distributor,Gold,10000
+745,CUST-00745,Company_745 Lda,Retail,Silver,10000
+746,CUST-00746,Company_746 Lda,E-commerce,Bronze,10000
+747,CUST-00747,Company_747 Lda,Pharmaceutical,Bronze,50000
+748,CUST-00748,Company_748 Lda,Food Distributor,Silver,10000
+749,CUST-00749,Company_749 Lda,Manufacturing,Bronze,10000
+750,CUST-00750,Company_750 Lda,Food Distributor,Bronze,150000
+751,CUST-00751,Company_751 Lda,Retail,Bronze,150000
+752,CUST-00752,Company_752 Lda,Manufacturing,Gold,150000
+753,CUST-00753,Company_753 Lda,Food Distributor,Silver,10000
+754,CUST-00754,Company_754 Lda,Pharmaceutical,Silver,50000
+755,CUST-00755,Company_755 Lda,Retail,Silver,10000
+756,CUST-00756,Company_756 Lda,E-commerce,Bronze,10000
+757,CUST-00757,Company_757 Lda,Food Distributor,Bronze,10000
+758,CUST-00758,Company_758 Lda,Food Distributor,Bronze,10000
+759,CUST-00759,Company_759 Lda,E-commerce,Bronze,10000
+760,CUST-00760,Company_760 Lda,E-commerce,Bronze,150000
+761,CUST-00761,Company_761 Lda,Retail,Silver,10000
+762,CUST-00762,Company_762 Lda,Pharmaceutical,Silver,50000
+763,CUST-00763,Company_763 Lda,Retail,Silver,50000
+764,CUST-00764,Company_764 Lda,E-commerce,Bronze,10000
+765,CUST-00765,Company_765 Lda,Retail,Silver,10000
+766,CUST-00766,Company_766 Lda,Food Distributor,Silver,10000
+767,CUST-00767,Company_767 Lda,E-commerce,Bronze,50000
+768,CUST-00768,Company_768 Lda,E-commerce,Silver,10000
+769,CUST-00769,Company_769 Lda,Pharmaceutical,Bronze,10000
+770,CUST-00770,Company_770 Lda,E-commerce,Bronze,10000
+771,CUST-00771,Company_771 Lda,Retail,Bronze,50000
+772,CUST-00772,Company_772 Lda,E-commerce,Bronze,150000
+773,CUST-00773,Company_773 Lda,Retail,Bronze,10000
+774,CUST-00774,Company_774 Lda,Pharmaceutical,Silver,50000
+775,CUST-00775,Company_775 Lda,E-commerce,Gold,50000
+776,CUST-00776,Company_776 Lda,Retail,Silver,150000
+777,CUST-00777,Company_777 Lda,Retail,Silver,150000
+778,CUST-00778,Company_778 Lda,E-commerce,Bronze,50000
+779,CUST-00779,Company_779 Lda,E-commerce,Silver,50000
+780,CUST-00780,Company_780 Lda,Food Distributor,Bronze,150000
+781,CUST-00781,Company_781 Lda,Food Distributor,Bronze,10000
+782,CUST-00782,Company_782 Lda,Food Distributor,Bronze,10000
+783,CUST-00783,Company_783 Lda,Retail,Bronze,10000
+784,CUST-00784,Company_784 Lda,Pharmaceutical,Bronze,150000
+785,CUST-00785,Company_785 Lda,Retail,Bronze,150000
+786,CUST-00786,Company_786 Lda,Manufacturing,Bronze,10000
+787,CUST-00787,Company_787 Lda,Food Distributor,Gold,50000
+788,CUST-00788,Company_788 Lda,Automotive,Bronze,10000
+789,CUST-00789,Company_789 Lda,Automotive,Bronze,10000
+790,CUST-00790,Company_790 Lda,Manufacturing,Bronze,500000
+791,CUST-00791,Company_791 Lda,Retail,Silver,10000
+792,CUST-00792,Company_792 Lda,Food Distributor,Bronze,10000
+793,CUST-00793,Company_793 Lda,Food Distributor,Bronze,50000
+794,CUST-00794,Company_794 Lda,Food Distributor,Bronze,50000
+795,CUST-00795,Company_795 Lda,Retail,Bronze,10000
+796,CUST-00796,Company_796 Lda,E-commerce,Bronze,50000
+797,CUST-00797,Company_797 Lda,Manufacturing,Bronze,50000
+798,CUST-00798,Company_798 Lda,Food Distributor,Bronze,10000
+799,CUST-00799,Company_799 Lda,Food Distributor,Bronze,10000
+800,CUST-00800,Company_800 Lda,Manufacturing,Bronze,50000
+801,CUST-00801,Company_801 Lda,E-commerce,Silver,10000
+802,CUST-00802,Company_802 Lda,Retail,Bronze,150000
+803,CUST-00803,Company_803 Lda,Food Distributor,Bronze,150000
+804,CUST-00804,Company_804 Lda,Food Distributor,Bronze,500000
+805,CUST-00805,Company_805 Lda,Automotive,Gold,10000
+806,CUST-00806,Company_806 Lda,E-commerce,Bronze,500000
+807,CUST-00807,Company_807 Lda,Manufacturing,Bronze,10000
+808,CUST-00808,Company_808 Lda,Manufacturing,Silver,10000
+809,CUST-00809,Company_809 Lda,Automotive,Bronze,10000
+810,CUST-00810,Company_810 Lda,Retail,Bronze,10000
+811,CUST-00811,Company_811 Lda,Manufacturing,Bronze,50000
+812,CUST-00812,Company_812 Lda,E-commerce,Silver,10000
+813,CUST-00813,Company_813 Lda,Retail,Bronze,10000
+814,CUST-00814,Company_814 Lda,Manufacturing,Silver,50000
+815,CUST-00815,Company_815 Lda,E-commerce,Gold,10000
+816,CUST-00816,Company_816 Lda,Food Distributor,Bronze,50000
+817,CUST-00817,Company_817 Lda,Food Distributor,Bronze,10000
+818,CUST-00818,Company_818 Lda,Pharmaceutical,Bronze,150000
+819,CUST-00819,Company_819 Lda,Retail,Bronze,150000
+820,CUST-00820,Company_820 Lda,Pharmaceutical,Bronze,10000
+821,CUST-00821,Company_821 Lda,E-commerce,Gold,10000
+822,CUST-00822,Company_822 Lda,Retail,Silver,10000
+823,CUST-00823,Company_823 Lda,Pharmaceutical,Silver,150000
+824,CUST-00824,Company_824 Lda,Pharmaceutical,Bronze,10000
+825,CUST-00825,Company_825 Lda,Food Distributor,Silver,10000
+826,CUST-00826,Company_826 Lda,Manufacturing,Gold,10000
+827,CUST-00827,Company_827 Lda,Pharmaceutical,Silver,10000
+828,CUST-00828,Company_828 Lda,Pharmaceutical,Bronze,10000
+829,CUST-00829,Company_829 Lda,E-commerce,Silver,150000
+830,CUST-00830,Company_830 Lda,Automotive,Bronze,10000
+831,CUST-00831,Company_831 Lda,Retail,Bronze,10000
+832,CUST-00832,Company_832 Lda,Automotive,Bronze,150000
+833,CUST-00833,Company_833 Lda,Retail,Silver,150000
+834,CUST-00834,Company_834 Lda,Retail,Silver,10000
+835,CUST-00835,Company_835 Lda,Automotive,Bronze,10000
+836,CUST-00836,Company_836 Lda,Automotive,Bronze,10000
+837,CUST-00837,Company_837 Lda,Manufacturing,Bronze,150000
+838,CUST-00838,Company_838 Lda,Pharmaceutical,Bronze,10000
+839,CUST-00839,Company_839 Lda,Food Distributor,Bronze,150000
+840,CUST-00840,Company_840 Lda,Food Distributor,Bronze,50000
+841,CUST-00841,Company_841 Lda,Retail,Silver,50000
+842,CUST-00842,Company_842 Lda,Food Distributor,Bronze,10000
+843,CUST-00843,Company_843 Lda,Retail,Bronze,10000
+844,CUST-00844,Company_844 Lda,Manufacturing,Bronze,10000
+845,CUST-00845,Company_845 Lda,Retail,Gold,10000
+846,CUST-00846,Company_846 Lda,Automotive,Silver,50000
+847,CUST-00847,Company_847 Lda,Retail,Silver,500000
+848,CUST-00848,Company_848 Lda,Manufacturing,Bronze,50000
+849,CUST-00849,Company_849 Lda,Food Distributor,Bronze,50000
+850,CUST-00850,Company_850 Lda,Food Distributor,Bronze,10000
+851,CUST-00851,Company_851 Lda,Retail,Silver,10000
+852,CUST-00852,Company_852 Lda,E-commerce,Gold,10000
+853,CUST-00853,Company_853 Lda,Retail,Silver,50000
+854,CUST-00854,Company_854 Lda,E-commerce,Silver,150000
+855,CUST-00855,Company_855 Lda,Retail,Silver,50000
+856,CUST-00856,Company_856 Lda,Retail,Bronze,10000
+857,CUST-00857,Company_857 Lda,Retail,Gold,10000
+858,CUST-00858,Company_858 Lda,Automotive,Bronze,50000
+859,CUST-00859,Company_859 Lda,Food Distributor,Bronze,10000
+860,CUST-00860,Company_860 Lda,Retail,Bronze,150000
+861,CUST-00861,Company_861 Lda,E-commerce,Bronze,150000
+862,CUST-00862,Company_862 Lda,Automotive,Bronze,50000
+863,CUST-00863,Company_863 Lda,Food Distributor,Bronze,10000
+864,CUST-00864,Company_864 Lda,Automotive,Bronze,10000
+865,CUST-00865,Company_865 Lda,Automotive,Bronze,10000
+866,CUST-00866,Company_866 Lda,Food Distributor,Bronze,10000
+867,CUST-00867,Company_867 Lda,Retail,Bronze,10000
+868,CUST-00868,Company_868 Lda,Retail,Bronze,50000
+869,CUST-00869,Company_869 Lda,E-commerce,Bronze,50000
+870,CUST-00870,Company_870 Lda,Manufacturing,Silver,10000
+871,CUST-00871,Company_871 Lda,Pharmaceutical,Silver,10000
+872,CUST-00872,Company_872 Lda,Retail,Silver,10000
+873,CUST-00873,Company_873 Lda,Food Distributor,Silver,10000
+874,CUST-00874,Company_874 Lda,Automotive,Bronze,150000
+875,CUST-00875,Company_875 Lda,Retail,Silver,10000
+876,CUST-00876,Company_876 Lda,Retail,Bronze,10000
+877,CUST-00877,Company_877 Lda,E-commerce,Bronze,10000
+878,CUST-00878,Company_878 Lda,Food Distributor,Silver,150000
+879,CUST-00879,Company_879 Lda,Retail,Bronze,50000
+880,CUST-00880,Company_880 Lda,Retail,Silver,10000
+881,CUST-00881,Company_881 Lda,Retail,Silver,50000
+882,CUST-00882,Company_882 Lda,Food Distributor,Silver,50000
+883,CUST-00883,Company_883 Lda,Retail,Gold,500000
+884,CUST-00884,Company_884 Lda,Retail,Bronze,10000
+885,CUST-00885,Company_885 Lda,E-commerce,Bronze,150000
+886,CUST-00886,Company_886 Lda,Retail,Bronze,150000
+887,CUST-00887,Company_887 Lda,Food Distributor,Bronze,150000
+888,CUST-00888,Company_888 Lda,Retail,Silver,50000
+889,CUST-00889,Company_889 Lda,Retail,Silver,50000
+890,CUST-00890,Company_890 Lda,Retail,Silver,10000
+891,CUST-00891,Company_891 Lda,E-commerce,Bronze,50000
+892,CUST-00892,Company_892 Lda,E-commerce,Bronze,50000
+893,CUST-00893,Company_893 Lda,E-commerce,Bronze,50000
+894,CUST-00894,Company_894 Lda,Pharmaceutical,Bronze,10000
+895,CUST-00895,Company_895 Lda,Food Distributor,Silver,50000
+896,CUST-00896,Company_896 Lda,Retail,Bronze,150000
+897,CUST-00897,Company_897 Lda,Retail,Bronze,10000
+898,CUST-00898,Company_898 Lda,E-commerce,Bronze,150000
+899,CUST-00899,Company_899 Lda,Retail,Silver,50000
+900,CUST-00900,Company_900 Lda,Retail,Silver,150000
+901,CUST-00901,Company_901 Lda,Retail,Bronze,10000
+902,CUST-00902,Company_902 Lda,Retail,Bronze,10000
+903,CUST-00903,Company_903 Lda,Retail,Bronze,150000
+904,CUST-00904,Company_904 Lda,Food Distributor,Bronze,10000
+905,CUST-00905,Company_905 Lda,Automotive,Silver,150000
+906,CUST-00906,Company_906 Lda,E-commerce,Silver,10000
+907,CUST-00907,Company_907 Lda,E-commerce,Bronze,50000
+908,CUST-00908,Company_908 Lda,Pharmaceutical,Bronze,10000
+909,CUST-00909,Company_909 Lda,Retail,Gold,50000
+910,CUST-00910,Company_910 Lda,Pharmaceutical,Bronze,10000
+911,CUST-00911,Company_911 Lda,Food Distributor,Silver,10000
+912,CUST-00912,Company_912 Lda,Retail,Bronze,10000
+913,CUST-00913,Company_913 Lda,Food Distributor,Bronze,10000
+914,CUST-00914,Company_914 Lda,Automotive,Bronze,500000
+915,CUST-00915,Company_915 Lda,Food Distributor,Bronze,500000
+916,CUST-00916,Company_916 Lda,Automotive,Gold,10000
+917,CUST-00917,Company_917 Lda,Retail,Bronze,50000
+918,CUST-00918,Company_918 Lda,Manufacturing,Bronze,10000
+919,CUST-00919,Company_919 Lda,E-commerce,Bronze,50000
+920,CUST-00920,Company_920 Lda,Retail,Bronze,150000
+921,CUST-00921,Company_921 Lda,E-commerce,Bronze,150000
+922,CUST-00922,Company_922 Lda,Automotive,Bronze,10000
+923,CUST-00923,Company_923 Lda,E-commerce,Silver,50000
+924,CUST-00924,Company_924 Lda,E-commerce,Bronze,10000
+925,CUST-00925,Company_925 Lda,Automotive,Bronze,500000
+926,CUST-00926,Company_926 Lda,Retail,Gold,10000
+927,CUST-00927,Company_927 Lda,Retail,Bronze,50000
+928,CUST-00928,Company_928 Lda,Food Distributor,Gold,50000
+929,CUST-00929,Company_929 Lda,Food Distributor,Bronze,50000
+930,CUST-00930,Company_930 Lda,Retail,Silver,10000
+931,CUST-00931,Company_931 Lda,Retail,Silver,150000
+932,CUST-00932,Company_932 Lda,E-commerce,Silver,10000
+933,CUST-00933,Company_933 Lda,Manufacturing,Gold,50000
+934,CUST-00934,Company_934 Lda,Food Distributor,Bronze,10000
+935,CUST-00935,Company_935 Lda,Retail,Gold,10000
+936,CUST-00936,Company_936 Lda,Retail,Bronze,50000
+937,CUST-00937,Company_937 Lda,Retail,Bronze,10000
+938,CUST-00938,Company_938 Lda,Manufacturing,Bronze,10000
+939,CUST-00939,Company_939 Lda,Retail,Bronze,10000
+940,CUST-00940,Company_940 Lda,Food Distributor,Bronze,10000
+941,CUST-00941,Company_941 Lda,Retail,Bronze,50000
+942,CUST-00942,Company_942 Lda,Food Distributor,Bronze,150000
+943,CUST-00943,Company_943 Lda,Food Distributor,Silver,10000
+944,CUST-00944,Company_944 Lda,E-commerce,Silver,10000
+945,CUST-00945,Company_945 Lda,Retail,Bronze,10000
+946,CUST-00946,Company_946 Lda,Retail,Bronze,10000
+947,CUST-00947,Company_947 Lda,Retail,Bronze,50000
+948,CUST-00948,Company_948 Lda,Manufacturing,Bronze,50000
+949,CUST-00949,Company_949 Lda,E-commerce,Bronze,10000
+950,CUST-00950,Company_950 Lda,Food Distributor,Bronze,10000
+951,CUST-00951,Company_951 Lda,Food Distributor,Bronze,10000
+952,CUST-00952,Company_952 Lda,Food Distributor,Gold,150000
+953,CUST-00953,Company_953 Lda,Retail,Bronze,500000
+954,CUST-00954,Company_954 Lda,Manufacturing,Bronze,10000
+955,CUST-00955,Company_955 Lda,Automotive,Bronze,10000
+956,CUST-00956,Company_956 Lda,Pharmaceutical,Bronze,150000
+957,CUST-00957,Company_957 Lda,Food Distributor,Bronze,150000
+958,CUST-00958,Company_958 Lda,Retail,Silver,10000
+959,CUST-00959,Company_959 Lda,Retail,Bronze,10000
+960,CUST-00960,Company_960 Lda,E-commerce,Bronze,10000
+961,CUST-00961,Company_961 Lda,Retail,Gold,50000
+962,CUST-00962,Company_962 Lda,Food Distributor,Silver,10000
+963,CUST-00963,Company_963 Lda,Retail,Silver,10000
+964,CUST-00964,Company_964 Lda,Pharmaceutical,Bronze,50000
+965,CUST-00965,Company_965 Lda,Retail,Silver,10000
+966,CUST-00966,Company_966 Lda,Pharmaceutical,Bronze,50000
+967,CUST-00967,Company_967 Lda,E-commerce,Bronze,10000
+968,CUST-00968,Company_968 Lda,Retail,Bronze,10000
+969,CUST-00969,Company_969 Lda,Food Distributor,Bronze,50000
+970,CUST-00970,Company_970 Lda,Automotive,Bronze,10000
+971,CUST-00971,Company_971 Lda,Food Distributor,Bronze,500000
+972,CUST-00972,Company_972 Lda,Manufacturing,Gold,50000
+973,CUST-00973,Company_973 Lda,E-commerce,Gold,10000
+974,CUST-00974,Company_974 Lda,Retail,Silver,50000
+975,CUST-00975,Company_975 Lda,Retail,Bronze,10000
+976,CUST-00976,Company_976 Lda,Retail,Silver,150000
+977,CUST-00977,Company_977 Lda,Food Distributor,Bronze,10000
+978,CUST-00978,Company_978 Lda,Retail,Silver,50000
+979,CUST-00979,Company_979 Lda,Automotive,Bronze,10000
+980,CUST-00980,Company_980 Lda,Food Distributor,Silver,10000
+981,CUST-00981,Company_981 Lda,Pharmaceutical,Bronze,150000
+982,CUST-00982,Company_982 Lda,E-commerce,Silver,150000
+983,CUST-00983,Company_983 Lda,Retail,Gold,10000
+984,CUST-00984,Company_984 Lda,Retail,Bronze,10000
+985,CUST-00985,Company_985 Lda,E-commerce,Bronze,150000
+986,CUST-00986,Company_986 Lda,Automotive,Gold,150000
+987,CUST-00987,Company_987 Lda,Food Distributor,Bronze,10000
+988,CUST-00988,Company_988 Lda,Automotive,Silver,10000
+989,CUST-00989,Company_989 Lda,Retail,Bronze,10000
+990,CUST-00990,Company_990 Lda,E-commerce,Bronze,150000
+991,CUST-00991,Company_991 Lda,E-commerce,Bronze,10000
+992,CUST-00992,Company_992 Lda,Food Distributor,Bronze,10000
+993,CUST-00993,Company_993 Lda,Retail,Silver,50000
+994,CUST-00994,Company_994 Lda,Food Distributor,Bronze,10000
+995,CUST-00995,Company_995 Lda,Pharmaceutical,Bronze,10000
+996,CUST-00996,Company_996 Lda,Retail,Bronze,10000
+997,CUST-00997,Company_997 Lda,Manufacturing,Bronze,10000
+998,CUST-00998,Company_998 Lda,Retail,Silver,10000
+999,CUST-00999,Company_999 Lda,Manufacturing,Gold,50000
+1000,CUST-01000,Company_1000 Lda,Automotive,Bronze,10000
+1001,CUST-01001,Company_1001 Lda,Retail,Silver,50000
+1002,CUST-01002,Company_1002 Lda,Food Distributor,Silver,150000
+1003,CUST-01003,Company_1003 Lda,E-commerce,Bronze,50000
+1004,CUST-01004,Company_1004 Lda,E-commerce,Gold,10000
+1005,CUST-01005,Company_1005 Lda,E-commerce,Bronze,10000
+1006,CUST-01006,Company_1006 Lda,Food Distributor,Bronze,10000
+1007,CUST-01007,Company_1007 Lda,Food Distributor,Silver,10000
+1008,CUST-01008,Company_1008 Lda,E-commerce,Bronze,10000
+1009,CUST-01009,Company_1009 Lda,Retail,Silver,50000
+1010,CUST-01010,Company_1010 Lda,Automotive,Silver,10000
+1011,CUST-01011,Company_1011 Lda,Retail,Bronze,10000
+1012,CUST-01012,Company_1012 Lda,Manufacturing,Silver,10000
+1013,CUST-01013,Company_1013 Lda,Manufacturing,Bronze,50000
+1014,CUST-01014,Company_1014 Lda,Retail,Bronze,10000
+1015,CUST-01015,Company_1015 Lda,E-commerce,Silver,50000
+1016,CUST-01016,Company_1016 Lda,Manufacturing,Gold,10000
+1017,CUST-01017,Company_1017 Lda,Retail,Bronze,150000
+1018,CUST-01018,Company_1018 Lda,Food Distributor,Bronze,150000
+1019,CUST-01019,Company_1019 Lda,Manufacturing,Silver,10000
+1020,CUST-01020,Company_1020 Lda,Retail,Silver,10000
+1021,CUST-01021,Company_1021 Lda,Food Distributor,Silver,10000
+1022,CUST-01022,Company_1022 Lda,Retail,Bronze,10000
+1023,CUST-01023,Company_1023 Lda,Manufacturing,Bronze,50000
+1024,CUST-01024,Company_1024 Lda,Manufacturing,Bronze,150000
+1025,CUST-01025,Company_1025 Lda,Manufacturing,Silver,50000
+1026,CUST-01026,Company_1026 Lda,Automotive,Bronze,150000
+1027,CUST-01027,Company_1027 Lda,E-commerce,Bronze,10000
+1028,CUST-01028,Company_1028 Lda,E-commerce,Gold,10000
+1029,CUST-01029,Company_1029 Lda,Pharmaceutical,Bronze,50000
+1030,CUST-01030,Company_1030 Lda,E-commerce,Gold,10000
+1031,CUST-01031,Company_1031 Lda,Retail,Silver,50000
+1032,CUST-01032,Company_1032 Lda,Food Distributor,Silver,10000
+1033,CUST-01033,Company_1033 Lda,Retail,Bronze,10000
+1034,CUST-01034,Company_1034 Lda,Retail,Bronze,500000
+1035,CUST-01035,Company_1035 Lda,Retail,Silver,10000
+1036,CUST-01036,Company_1036 Lda,Food Distributor,Silver,500000
+1037,CUST-01037,Company_1037 Lda,Pharmaceutical,Silver,500000
+1038,CUST-01038,Company_1038 Lda,E-commerce,Bronze,50000
+1039,CUST-01039,Company_1039 Lda,Retail,Silver,50000
+1040,CUST-01040,Company_1040 Lda,Pharmaceutical,Silver,50000
+1041,CUST-01041,Company_1041 Lda,Food Distributor,Silver,150000
+1042,CUST-01042,Company_1042 Lda,E-commerce,Silver,10000
+1043,CUST-01043,Company_1043 Lda,Pharmaceutical,Silver,10000
+1044,CUST-01044,Company_1044 Lda,Food Distributor,Silver,50000
+1045,CUST-01045,Company_1045 Lda,E-commerce,Bronze,10000
+1046,CUST-01046,Company_1046 Lda,Food Distributor,Bronze,10000
+1047,CUST-01047,Company_1047 Lda,Retail,Bronze,10000
+1048,CUST-01048,Company_1048 Lda,Retail,Bronze,50000
+1049,CUST-01049,Company_1049 Lda,E-commerce,Bronze,150000
+1050,CUST-01050,Company_1050 Lda,Retail,Bronze,10000
+1051,CUST-01051,Company_1051 Lda,E-commerce,Bronze,150000
+1052,CUST-01052,Company_1052 Lda,Food Distributor,Bronze,50000
+1053,CUST-01053,Company_1053 Lda,Manufacturing,Silver,150000
+1054,CUST-01054,Company_1054 Lda,E-commerce,Gold,50000
+1055,CUST-01055,Company_1055 Lda,Manufacturing,Bronze,50000
+1056,CUST-01056,Company_1056 Lda,Pharmaceutical,Gold,10000
+1057,CUST-01057,Company_1057 Lda,E-commerce,Bronze,150000
+1058,CUST-01058,Company_1058 Lda,Automotive,Bronze,10000
+1059,CUST-01059,Company_1059 Lda,Automotive,Bronze,150000
+1060,CUST-01060,Company_1060 Lda,Food Distributor,Bronze,500000
+1061,CUST-01061,Company_1061 Lda,E-commerce,Silver,10000
+1062,CUST-01062,Company_1062 Lda,Manufacturing,Silver,10000
+1063,CUST-01063,Company_1063 Lda,E-commerce,Bronze,50000
+1064,CUST-01064,Company_1064 Lda,Automotive,Bronze,10000
+1065,CUST-01065,Company_1065 Lda,Automotive,Bronze,150000
+1066,CUST-01066,Company_1066 Lda,E-commerce,Bronze,10000
+1067,CUST-01067,Company_1067 Lda,Retail,Bronze,10000
+1068,CUST-01068,Company_1068 Lda,Retail,Bronze,500000
+1069,CUST-01069,Company_1069 Lda,Pharmaceutical,Silver,50000
+1070,CUST-01070,Company_1070 Lda,Retail,Gold,150000
+1071,CUST-01071,Company_1071 Lda,Retail,Bronze,10000
+1072,CUST-01072,Company_1072 Lda,Retail,Gold,50000
+1073,CUST-01073,Company_1073 Lda,Retail,Bronze,50000
+1074,CUST-01074,Company_1074 Lda,Retail,Bronze,50000
+1075,CUST-01075,Company_1075 Lda,Manufacturing,Bronze,50000
+1076,CUST-01076,Company_1076 Lda,Automotive,Silver,50000
+1077,CUST-01077,Company_1077 Lda,Pharmaceutical,Gold,10000
+1078,CUST-01078,Company_1078 Lda,Food Distributor,Silver,10000
+1079,CUST-01079,Company_1079 Lda,Retail,Bronze,50000
+1080,CUST-01080,Company_1080 Lda,Manufacturing,Silver,10000
+1081,CUST-01081,Company_1081 Lda,E-commerce,Bronze,50000
+1082,CUST-01082,Company_1082 Lda,Retail,Silver,10000
+1083,CUST-01083,Company_1083 Lda,Automotive,Bronze,50000
+1084,CUST-01084,Company_1084 Lda,E-commerce,Bronze,50000
+1085,CUST-01085,Company_1085 Lda,Manufacturing,Bronze,10000
+1086,CUST-01086,Company_1086 Lda,Automotive,Silver,10000
+1087,CUST-01087,Company_1087 Lda,Food Distributor,Bronze,10000
+1088,CUST-01088,Company_1088 Lda,Retail,Silver,50000
+1089,CUST-01089,Company_1089 Lda,Manufacturing,Bronze,150000
+1090,CUST-01090,Company_1090 Lda,Retail,Silver,10000
+1091,CUST-01091,Company_1091 Lda,Manufacturing,Silver,50000
+1092,CUST-01092,Company_1092 Lda,Food Distributor,Silver,10000
+1093,CUST-01093,Company_1093 Lda,Food Distributor,Bronze,10000
+1094,CUST-01094,Company_1094 Lda,Food Distributor,Bronze,150000
+1095,CUST-01095,Company_1095 Lda,Retail,Bronze,10000
+1096,CUST-01096,Company_1096 Lda,Retail,Silver,10000
+1097,CUST-01097,Company_1097 Lda,Retail,Bronze,10000
+1098,CUST-01098,Company_1098 Lda,Retail,Bronze,10000
+1099,CUST-01099,Company_1099 Lda,E-commerce,Bronze,10000
+1100,CUST-01100,Company_1100 Lda,Pharmaceutical,Bronze,10000
+1101,CUST-01101,Company_1101 Lda,Retail,Silver,50000
+1102,CUST-01102,Company_1102 Lda,Manufacturing,Bronze,10000
+1103,CUST-01103,Company_1103 Lda,E-commerce,Silver,50000
+1104,CUST-01104,Company_1104 Lda,Manufacturing,Bronze,10000
+1105,CUST-01105,Company_1105 Lda,Manufacturing,Bronze,10000
+1106,CUST-01106,Company_1106 Lda,Retail,Bronze,50000
+1107,CUST-01107,Company_1107 Lda,Pharmaceutical,Bronze,500000
+1108,CUST-01108,Company_1108 Lda,E-commerce,Bronze,10000
+1109,CUST-01109,Company_1109 Lda,Food Distributor,Silver,150000
+1110,CUST-01110,Company_1110 Lda,Retail,Bronze,50000
+1111,CUST-01111,Company_1111 Lda,E-commerce,Silver,50000
+1112,CUST-01112,Company_1112 Lda,Retail,Bronze,50000
+1113,CUST-01113,Company_1113 Lda,Retail,Bronze,10000
+1114,CUST-01114,Company_1114 Lda,Food Distributor,Silver,10000
+1115,CUST-01115,Company_1115 Lda,Food Distributor,Bronze,50000
+1116,CUST-01116,Company_1116 Lda,Food Distributor,Bronze,10000
+1117,CUST-01117,Company_1117 Lda,Retail,Bronze,150000
+1118,CUST-01118,Company_1118 Lda,E-commerce,Bronze,10000
+1119,CUST-01119,Company_1119 Lda,Retail,Silver,10000
+1120,CUST-01120,Company_1120 Lda,Retail,Bronze,50000
+1121,CUST-01121,Company_1121 Lda,E-commerce,Silver,10000
+1122,CUST-01122,Company_1122 Lda,Manufacturing,Silver,50000
+1123,CUST-01123,Company_1123 Lda,E-commerce,Bronze,50000
+1124,CUST-01124,Company_1124 Lda,E-commerce,Gold,150000
+1125,CUST-01125,Company_1125 Lda,Food Distributor,Bronze,50000
+1126,CUST-01126,Company_1126 Lda,Food Distributor,Gold,50000
+1127,CUST-01127,Company_1127 Lda,Retail,Bronze,50000
+1128,CUST-01128,Company_1128 Lda,Automotive,Silver,150000
+1129,CUST-01129,Company_1129 Lda,Pharmaceutical,Bronze,10000
+1130,CUST-01130,Company_1130 Lda,Retail,Bronze,10000
+1131,CUST-01131,Company_1131 Lda,E-commerce,Silver,10000
+1132,CUST-01132,Company_1132 Lda,Automotive,Silver,10000
+1133,CUST-01133,Company_1133 Lda,Retail,Bronze,50000
+1134,CUST-01134,Company_1134 Lda,Retail,Bronze,50000
+1135,CUST-01135,Company_1135 Lda,Food Distributor,Silver,50000
+1136,CUST-01136,Company_1136 Lda,Retail,Silver,10000
+1137,CUST-01137,Company_1137 Lda,E-commerce,Gold,50000
+1138,CUST-01138,Company_1138 Lda,Automotive,Silver,10000
+1139,CUST-01139,Company_1139 Lda,Automotive,Gold,50000
+1140,CUST-01140,Company_1140 Lda,Food Distributor,Silver,50000
+1141,CUST-01141,Company_1141 Lda,E-commerce,Bronze,10000
+1142,CUST-01142,Company_1142 Lda,Pharmaceutical,Bronze,10000
+1143,CUST-01143,Company_1143 Lda,Food Distributor,Silver,10000
+1144,CUST-01144,Company_1144 Lda,Food Distributor,Silver,150000
+1145,CUST-01145,Company_1145 Lda,Retail,Bronze,150000
+1146,CUST-01146,Company_1146 Lda,E-commerce,Bronze,50000
+1147,CUST-01147,Company_1147 Lda,E-commerce,Gold,10000
+1148,CUST-01148,Company_1148 Lda,Food Distributor,Bronze,10000
+1149,CUST-01149,Company_1149 Lda,E-commerce,Bronze,50000
+1150,CUST-01150,Company_1150 Lda,E-commerce,Bronze,50000
+1151,CUST-01151,Company_1151 Lda,E-commerce,Bronze,10000
+1152,CUST-01152,Company_1152 Lda,E-commerce,Bronze,10000
+1153,CUST-01153,Company_1153 Lda,Food Distributor,Bronze,50000
+1154,CUST-01154,Company_1154 Lda,Food Distributor,Bronze,10000
+1155,CUST-01155,Company_1155 Lda,Food Distributor,Silver,10000
+1156,CUST-01156,Company_1156 Lda,E-commerce,Bronze,10000
+1157,CUST-01157,Company_1157 Lda,Retail,Silver,50000
+1158,CUST-01158,Company_1158 Lda,E-commerce,Silver,150000
+1159,CUST-01159,Company_1159 Lda,E-commerce,Bronze,500000
+1160,CUST-01160,Company_1160 Lda,Retail,Silver,50000
+1161,CUST-01161,Company_1161 Lda,E-commerce,Bronze,50000
+1162,CUST-01162,Company_1162 Lda,Retail,Silver,10000
+1163,CUST-01163,Company_1163 Lda,Pharmaceutical,Bronze,50000
+1164,CUST-01164,Company_1164 Lda,E-commerce,Silver,10000
+1165,CUST-01165,Company_1165 Lda,Retail,Silver,50000
+1166,CUST-01166,Company_1166 Lda,E-commerce,Bronze,10000
+1167,CUST-01167,Company_1167 Lda,E-commerce,Bronze,10000
+1168,CUST-01168,Company_1168 Lda,Food Distributor,Silver,10000
+1169,CUST-01169,Company_1169 Lda,Retail,Silver,10000
+1170,CUST-01170,Company_1170 Lda,Retail,Bronze,10000
+1171,CUST-01171,Company_1171 Lda,Food Distributor,Silver,10000
+1172,CUST-01172,Company_1172 Lda,Manufacturing,Bronze,500000
+1173,CUST-01173,Company_1173 Lda,Food Distributor,Silver,10000
+1174,CUST-01174,Company_1174 Lda,Retail,Bronze,50000
+1175,CUST-01175,Company_1175 Lda,Food Distributor,Silver,150000
+1176,CUST-01176,Company_1176 Lda,Food Distributor,Bronze,500000
+1177,CUST-01177,Company_1177 Lda,E-commerce,Bronze,50000
+1178,CUST-01178,Company_1178 Lda,Retail,Bronze,150000
+1179,CUST-01179,Company_1179 Lda,E-commerce,Bronze,10000
+1180,CUST-01180,Company_1180 Lda,Food Distributor,Bronze,10000
+1181,CUST-01181,Company_1181 Lda,Manufacturing,Bronze,10000
+1182,CUST-01182,Company_1182 Lda,Pharmaceutical,Silver,50000
+1183,CUST-01183,Company_1183 Lda,Food Distributor,Bronze,50000
+1184,CUST-01184,Company_1184 Lda,Manufacturing,Bronze,10000
+1185,CUST-01185,Company_1185 Lda,Retail,Bronze,10000
+1186,CUST-01186,Company_1186 Lda,Manufacturing,Bronze,50000
+1187,CUST-01187,Company_1187 Lda,Food Distributor,Bronze,10000
+1188,CUST-01188,Company_1188 Lda,Retail,Bronze,50000
+1189,CUST-01189,Company_1189 Lda,Pharmaceutical,Bronze,50000
+1190,CUST-01190,Company_1190 Lda,E-commerce,Bronze,50000
+1191,CUST-01191,Company_1191 Lda,Retail,Bronze,50000
+1192,CUST-01192,Company_1192 Lda,Food Distributor,Bronze,150000
+1193,CUST-01193,Company_1193 Lda,Pharmaceutical,Bronze,10000
+1194,CUST-01194,Company_1194 Lda,Food Distributor,Bronze,50000
+1195,CUST-01195,Company_1195 Lda,Retail,Gold,50000
+1196,CUST-01196,Company_1196 Lda,E-commerce,Bronze,10000
+1197,CUST-01197,Company_1197 Lda,Manufacturing,Silver,10000
+1198,CUST-01198,Company_1198 Lda,Manufacturing,Bronze,10000
+1199,CUST-01199,Company_1199 Lda,E-commerce,Silver,10000
+1200,CUST-01200,Company_1200 Lda,Retail,Silver,50000
+1201,CUST-01201,Company_1201 Lda,E-commerce,Bronze,150000
+1202,CUST-01202,Company_1202 Lda,Retail,Gold,10000
+1203,CUST-01203,Company_1203 Lda,Retail,Bronze,10000
+1204,CUST-01204,Company_1204 Lda,Pharmaceutical,Bronze,500000
+1205,CUST-01205,Company_1205 Lda,Automotive,Silver,10000
+1206,CUST-01206,Company_1206 Lda,E-commerce,Silver,10000
+1207,CUST-01207,Company_1207 Lda,Food Distributor,Bronze,50000
+1208,CUST-01208,Company_1208 Lda,Automotive,Bronze,50000
+1209,CUST-01209,Company_1209 Lda,Retail,Bronze,10000
+1210,CUST-01210,Company_1210 Lda,Manufacturing,Bronze,10000
+1211,CUST-01211,Company_1211 Lda,Automotive,Silver,10000
+1212,CUST-01212,Company_1212 Lda,Automotive,Bronze,50000
+1213,CUST-01213,Company_1213 Lda,Retail,Bronze,50000
+1214,CUST-01214,Company_1214 Lda,E-commerce,Bronze,10000
+1215,CUST-01215,Company_1215 Lda,Food Distributor,Bronze,50000
+1216,CUST-01216,Company_1216 Lda,Retail,Bronze,150000
+1217,CUST-01217,Company_1217 Lda,Retail,Silver,10000
+1218,CUST-01218,Company_1218 Lda,Food Distributor,Gold,10000
+1219,CUST-01219,Company_1219 Lda,Food Distributor,Silver,50000
+1220,CUST-01220,Company_1220 Lda,Retail,Bronze,10000
+1221,CUST-01221,Company_1221 Lda,Manufacturing,Silver,10000
+1222,CUST-01222,Company_1222 Lda,Retail,Silver,50000
+1223,CUST-01223,Company_1223 Lda,Automotive,Silver,150000
+1224,CUST-01224,Company_1224 Lda,Manufacturing,Bronze,150000
+1225,CUST-01225,Company_1225 Lda,Automotive,Bronze,50000
+1226,CUST-01226,Company_1226 Lda,Food Distributor,Bronze,50000
+1227,CUST-01227,Company_1227 Lda,Pharmaceutical,Bronze,10000
+1228,CUST-01228,Company_1228 Lda,Retail,Bronze,50000
+1229,CUST-01229,Company_1229 Lda,Manufacturing,Bronze,10000
+1230,CUST-01230,Company_1230 Lda,Automotive,Bronze,10000
+1231,CUST-01231,Company_1231 Lda,E-commerce,Silver,50000
+1232,CUST-01232,Company_1232 Lda,Retail,Bronze,50000
+1233,CUST-01233,Company_1233 Lda,Retail,Bronze,10000
+1234,CUST-01234,Company_1234 Lda,Retail,Gold,150000
+1235,CUST-01235,Company_1235 Lda,Food Distributor,Gold,10000
+1236,CUST-01236,Company_1236 Lda,Pharmaceutical,Silver,10000
+1237,CUST-01237,Company_1237 Lda,E-commerce,Gold,10000
+1238,CUST-01238,Company_1238 Lda,Automotive,Bronze,50000
+1239,CUST-01239,Company_1239 Lda,Manufacturing,Gold,50000
+1240,CUST-01240,Company_1240 Lda,Retail,Bronze,10000
+1241,CUST-01241,Company_1241 Lda,E-commerce,Bronze,50000
+1242,CUST-01242,Company_1242 Lda,E-commerce,Bronze,10000
+1243,CUST-01243,Company_1243 Lda,E-commerce,Bronze,50000
+1244,CUST-01244,Company_1244 Lda,E-commerce,Bronze,10000
+1245,CUST-01245,Company_1245 Lda,E-commerce,Silver,10000
+1246,CUST-01246,Company_1246 Lda,Food Distributor,Silver,150000
+1247,CUST-01247,Company_1247 Lda,Retail,Bronze,10000
+1248,CUST-01248,Company_1248 Lda,Retail,Bronze,10000
+1249,CUST-01249,Company_1249 Lda,Manufacturing,Silver,50000
+1250,CUST-01250,Company_1250 Lda,Food Distributor,Silver,500000
+1251,CUST-01251,Company_1251 Lda,E-commerce,Bronze,10000
+1252,CUST-01252,Company_1252 Lda,Automotive,Silver,10000
+1253,CUST-01253,Company_1253 Lda,Retail,Bronze,10000
+1254,CUST-01254,Company_1254 Lda,Retail,Bronze,50000
+1255,CUST-01255,Company_1255 Lda,Food Distributor,Gold,10000
+1256,CUST-01256,Company_1256 Lda,Automotive,Bronze,50000
+1257,CUST-01257,Company_1257 Lda,Retail,Bronze,500000
+1258,CUST-01258,Company_1258 Lda,Automotive,Silver,10000
+1259,CUST-01259,Company_1259 Lda,Retail,Silver,10000
+1260,CUST-01260,Company_1260 Lda,Food Distributor,Bronze,10000
+1261,CUST-01261,Company_1261 Lda,Retail,Bronze,10000
+1262,CUST-01262,Company_1262 Lda,E-commerce,Bronze,150000
+1263,CUST-01263,Company_1263 Lda,Pharmaceutical,Silver,10000
+1264,CUST-01264,Company_1264 Lda,Automotive,Bronze,10000
+1265,CUST-01265,Company_1265 Lda,Retail,Bronze,50000
+1266,CUST-01266,Company_1266 Lda,Retail,Gold,10000
+1267,CUST-01267,Company_1267 Lda,Pharmaceutical,Bronze,50000
+1268,CUST-01268,Company_1268 Lda,Automotive,Bronze,10000
+1269,CUST-01269,Company_1269 Lda,Food Distributor,Bronze,150000
+1270,CUST-01270,Company_1270 Lda,Retail,Silver,150000
+1271,CUST-01271,Company_1271 Lda,Food Distributor,Bronze,50000
+1272,CUST-01272,Company_1272 Lda,E-commerce,Bronze,500000
+1273,CUST-01273,Company_1273 Lda,E-commerce,Silver,10000
+1274,CUST-01274,Company_1274 Lda,Retail,Bronze,10000
+1275,CUST-01275,Company_1275 Lda,Automotive,Bronze,50000
+1276,CUST-01276,Company_1276 Lda,Retail,Bronze,50000
+1277,CUST-01277,Company_1277 Lda,Retail,Bronze,10000
+1278,CUST-01278,Company_1278 Lda,Manufacturing,Bronze,10000
+1279,CUST-01279,Company_1279 Lda,Retail,Bronze,10000
+1280,CUST-01280,Company_1280 Lda,Automotive,Bronze,10000
+1281,CUST-01281,Company_1281 Lda,Food Distributor,Bronze,10000
+1282,CUST-01282,Company_1282 Lda,E-commerce,Silver,50000
+1283,CUST-01283,Company_1283 Lda,Food Distributor,Gold,10000
+1284,CUST-01284,Company_1284 Lda,Retail,Silver,10000
+1285,CUST-01285,Company_1285 Lda,Pharmaceutical,Silver,50000
+1286,CUST-01286,Company_1286 Lda,Food Distributor,Bronze,50000
+1287,CUST-01287,Company_1287 Lda,Retail,Gold,150000
+1288,CUST-01288,Company_1288 Lda,Pharmaceutical,Bronze,50000
+1289,CUST-01289,Company_1289 Lda,Retail,Gold,10000
+1290,CUST-01290,Company_1290 Lda,Retail,Gold,150000
+1291,CUST-01291,Company_1291 Lda,Pharmaceutical,Silver,50000
+1292,CUST-01292,Company_1292 Lda,Retail,Gold,10000
+1293,CUST-01293,Company_1293 Lda,Food Distributor,Bronze,50000
+1294,CUST-01294,Company_1294 Lda,Food Distributor,Bronze,150000
+1295,CUST-01295,Company_1295 Lda,E-commerce,Bronze,10000
+1296,CUST-01296,Company_1296 Lda,Retail,Bronze,10000
+1297,CUST-01297,Company_1297 Lda,Retail,Bronze,10000
+1298,CUST-01298,Company_1298 Lda,Retail,Silver,10000
+1299,CUST-01299,Company_1299 Lda,Food Distributor,Gold,10000
+1300,CUST-01300,Company_1300 Lda,E-commerce,Bronze,50000
+1301,CUST-01301,Company_1301 Lda,Retail,Silver,10000
+1302,CUST-01302,Company_1302 Lda,Manufacturing,Gold,150000
+1303,CUST-01303,Company_1303 Lda,Retail,Gold,50000
+1304,CUST-01304,Company_1304 Lda,Food Distributor,Gold,50000
+1305,CUST-01305,Company_1305 Lda,E-commerce,Bronze,150000
+1306,CUST-01306,Company_1306 Lda,E-commerce,Gold,10000
+1307,CUST-01307,Company_1307 Lda,E-commerce,Silver,10000
+1308,CUST-01308,Company_1308 Lda,E-commerce,Bronze,50000
+1309,CUST-01309,Company_1309 Lda,Pharmaceutical,Bronze,150000
+1310,CUST-01310,Company_1310 Lda,E-commerce,Silver,50000
+1311,CUST-01311,Company_1311 Lda,Retail,Bronze,10000
+1312,CUST-01312,Company_1312 Lda,E-commerce,Silver,150000
+1313,CUST-01313,Company_1313 Lda,Food Distributor,Silver,10000
+1314,CUST-01314,Company_1314 Lda,E-commerce,Bronze,150000
+1315,CUST-01315,Company_1315 Lda,Automotive,Bronze,500000
+1316,CUST-01316,Company_1316 Lda,Food Distributor,Silver,10000
+1317,CUST-01317,Company_1317 Lda,Food Distributor,Bronze,50000
+1318,CUST-01318,Company_1318 Lda,E-commerce,Bronze,10000
+1319,CUST-01319,Company_1319 Lda,Retail,Bronze,10000
+1320,CUST-01320,Company_1320 Lda,Retail,Bronze,50000
+1321,CUST-01321,Company_1321 Lda,Retail,Gold,50000
+1322,CUST-01322,Company_1322 Lda,Retail,Bronze,150000
+1323,CUST-01323,Company_1323 Lda,E-commerce,Silver,50000
+1324,CUST-01324,Company_1324 Lda,Retail,Bronze,10000
+1325,CUST-01325,Company_1325 Lda,Manufacturing,Bronze,150000
+1326,CUST-01326,Company_1326 Lda,Pharmaceutical,Silver,500000
+1327,CUST-01327,Company_1327 Lda,Retail,Silver,10000
+1328,CUST-01328,Company_1328 Lda,E-commerce,Bronze,500000
+1329,CUST-01329,Company_1329 Lda,Food Distributor,Bronze,10000
+1330,CUST-01330,Company_1330 Lda,Automotive,Bronze,150000
+1331,CUST-01331,Company_1331 Lda,Food Distributor,Bronze,10000
+1332,CUST-01332,Company_1332 Lda,E-commerce,Silver,10000
+1333,CUST-01333,Company_1333 Lda,Retail,Bronze,10000
+1334,CUST-01334,Company_1334 Lda,Manufacturing,Bronze,50000
+1335,CUST-01335,Company_1335 Lda,Manufacturing,Bronze,10000
+1336,CUST-01336,Company_1336 Lda,Food Distributor,Gold,10000
+1337,CUST-01337,Company_1337 Lda,Retail,Gold,50000
+1338,CUST-01338,Company_1338 Lda,Food Distributor,Bronze,150000
+1339,CUST-01339,Company_1339 Lda,Retail,Silver,10000
+1340,CUST-01340,Company_1340 Lda,Retail,Bronze,10000
+1341,CUST-01341,Company_1341 Lda,Retail,Bronze,10000
+1342,CUST-01342,Company_1342 Lda,Automotive,Silver,10000
+1343,CUST-01343,Company_1343 Lda,E-commerce,Gold,150000
+1344,CUST-01344,Company_1344 Lda,E-commerce,Gold,150000
+1345,CUST-01345,Company_1345 Lda,E-commerce,Bronze,50000
+1346,CUST-01346,Company_1346 Lda,Automotive,Bronze,10000
+1347,CUST-01347,Company_1347 Lda,Pharmaceutical,Silver,50000
+1348,CUST-01348,Company_1348 Lda,Pharmaceutical,Bronze,50000
+1349,CUST-01349,Company_1349 Lda,Manufacturing,Bronze,150000
+1350,CUST-01350,Company_1350 Lda,Retail,Bronze,50000
+1351,CUST-01351,Company_1351 Lda,E-commerce,Silver,50000
+1352,CUST-01352,Company_1352 Lda,Food Distributor,Bronze,50000
+1353,CUST-01353,Company_1353 Lda,Automotive,Bronze,10000
+1354,CUST-01354,Company_1354 Lda,E-commerce,Gold,500000
+1355,CUST-01355,Company_1355 Lda,Automotive,Bronze,50000
+1356,CUST-01356,Company_1356 Lda,E-commerce,Bronze,50000
+1357,CUST-01357,Company_1357 Lda,Manufacturing,Bronze,10000
+1358,CUST-01358,Company_1358 Lda,Automotive,Bronze,50000
+1359,CUST-01359,Company_1359 Lda,Retail,Bronze,50000
+1360,CUST-01360,Company_1360 Lda,Food Distributor,Bronze,10000
+1361,CUST-01361,Company_1361 Lda,Manufacturing,Silver,10000
+1362,CUST-01362,Company_1362 Lda,Retail,Bronze,50000
+1363,CUST-01363,Company_1363 Lda,Food Distributor,Gold,50000
+1364,CUST-01364,Company_1364 Lda,Food Distributor,Bronze,50000
+1365,CUST-01365,Company_1365 Lda,E-commerce,Bronze,10000
+1366,CUST-01366,Company_1366 Lda,Retail,Bronze,50000
+1367,CUST-01367,Company_1367 Lda,E-commerce,Bronze,10000
+1368,CUST-01368,Company_1368 Lda,Manufacturing,Silver,10000
+1369,CUST-01369,Company_1369 Lda,Retail,Bronze,10000
+1370,CUST-01370,Company_1370 Lda,Retail,Bronze,10000
+1371,CUST-01371,Company_1371 Lda,Manufacturing,Silver,10000
+1372,CUST-01372,Company_1372 Lda,Retail,Gold,10000
+1373,CUST-01373,Company_1373 Lda,E-commerce,Silver,10000
+1374,CUST-01374,Company_1374 Lda,Automotive,Bronze,10000
+1375,CUST-01375,Company_1375 Lda,Retail,Silver,50000
+1376,CUST-01376,Company_1376 Lda,E-commerce,Bronze,10000
+1377,CUST-01377,Company_1377 Lda,Automotive,Bronze,10000
+1378,CUST-01378,Company_1378 Lda,Food Distributor,Bronze,150000
+1379,CUST-01379,Company_1379 Lda,Pharmaceutical,Bronze,10000
+1380,CUST-01380,Company_1380 Lda,Food Distributor,Bronze,50000
+1381,CUST-01381,Company_1381 Lda,Retail,Bronze,10000
+1382,CUST-01382,Company_1382 Lda,Pharmaceutical,Silver,10000
+1383,CUST-01383,Company_1383 Lda,Manufacturing,Bronze,50000
+1384,CUST-01384,Company_1384 Lda,Retail,Bronze,50000
+1385,CUST-01385,Company_1385 Lda,Food Distributor,Bronze,150000
+1386,CUST-01386,Company_1386 Lda,Pharmaceutical,Gold,50000
+1387,CUST-01387,Company_1387 Lda,E-commerce,Bronze,500000
+1388,CUST-01388,Company_1388 Lda,Retail,Bronze,10000
+1389,CUST-01389,Company_1389 Lda,Manufacturing,Silver,10000
+1390,CUST-01390,Company_1390 Lda,Automotive,Silver,10000
+1391,CUST-01391,Company_1391 Lda,Retail,Bronze,10000
+1392,CUST-01392,Company_1392 Lda,Retail,Silver,50000
+1393,CUST-01393,Company_1393 Lda,Retail,Silver,50000
+1394,CUST-01394,Company_1394 Lda,Food Distributor,Silver,10000
+1395,CUST-01395,Company_1395 Lda,Pharmaceutical,Bronze,150000
+1396,CUST-01396,Company_1396 Lda,E-commerce,Silver,150000
+1397,CUST-01397,Company_1397 Lda,Automotive,Bronze,10000
+1398,CUST-01398,Company_1398 Lda,Retail,Bronze,10000
+1399,CUST-01399,Company_1399 Lda,Food Distributor,Bronze,10000
+1400,CUST-01400,Company_1400 Lda,E-commerce,Bronze,10000
+1401,CUST-01401,Company_1401 Lda,Retail,Bronze,10000
+1402,CUST-01402,Company_1402 Lda,Retail,Silver,50000
+1403,CUST-01403,Company_1403 Lda,Retail,Bronze,10000
+1404,CUST-01404,Company_1404 Lda,E-commerce,Bronze,10000
+1405,CUST-01405,Company_1405 Lda,Food Distributor,Bronze,500000
+1406,CUST-01406,Company_1406 Lda,Automotive,Bronze,50000
+1407,CUST-01407,Company_1407 Lda,E-commerce,Gold,150000
+1408,CUST-01408,Company_1408 Lda,E-commerce,Bronze,10000
+1409,CUST-01409,Company_1409 Lda,Food Distributor,Bronze,10000
+1410,CUST-01410,Company_1410 Lda,E-commerce,Bronze,50000
+1411,CUST-01411,Company_1411 Lda,Retail,Bronze,10000
+1412,CUST-01412,Company_1412 Lda,Retail,Bronze,10000
+1413,CUST-01413,Company_1413 Lda,Retail,Silver,50000
+1414,CUST-01414,Company_1414 Lda,Retail,Gold,50000
+1415,CUST-01415,Company_1415 Lda,Food Distributor,Bronze,10000
+1416,CUST-01416,Company_1416 Lda,Manufacturing,Silver,10000
+1417,CUST-01417,Company_1417 Lda,Retail,Silver,10000
+1418,CUST-01418,Company_1418 Lda,Retail,Silver,10000
+1419,CUST-01419,Company_1419 Lda,Automotive,Bronze,10000
+1420,CUST-01420,Company_1420 Lda,Manufacturing,Bronze,10000
+1421,CUST-01421,Company_1421 Lda,Pharmaceutical,Bronze,10000
+1422,CUST-01422,Company_1422 Lda,Food Distributor,Silver,500000
+1423,CUST-01423,Company_1423 Lda,Retail,Silver,50000
+1424,CUST-01424,Company_1424 Lda,Retail,Bronze,50000
+1425,CUST-01425,Company_1425 Lda,Manufacturing,Bronze,10000
+1426,CUST-01426,Company_1426 Lda,Manufacturing,Gold,10000
+1427,CUST-01427,Company_1427 Lda,Retail,Silver,10000
+1428,CUST-01428,Company_1428 Lda,Manufacturing,Gold,10000
+1429,CUST-01429,Company_1429 Lda,Food Distributor,Silver,10000
+1430,CUST-01430,Company_1430 Lda,E-commerce,Bronze,50000
+1431,CUST-01431,Company_1431 Lda,Automotive,Bronze,50000
+1432,CUST-01432,Company_1432 Lda,Food Distributor,Silver,50000
+1433,CUST-01433,Company_1433 Lda,Automotive,Bronze,10000
+1434,CUST-01434,Company_1434 Lda,Food Distributor,Bronze,150000
+1435,CUST-01435,Company_1435 Lda,Retail,Silver,10000
+1436,CUST-01436,Company_1436 Lda,Retail,Bronze,10000
+1437,CUST-01437,Company_1437 Lda,Pharmaceutical,Silver,10000
+1438,CUST-01438,Company_1438 Lda,E-commerce,Bronze,50000
+1439,CUST-01439,Company_1439 Lda,Retail,Gold,500000
+1440,CUST-01440,Company_1440 Lda,Food Distributor,Bronze,10000
+1441,CUST-01441,Company_1441 Lda,Manufacturing,Bronze,150000
+1442,CUST-01442,Company_1442 Lda,Retail,Silver,150000
+1443,CUST-01443,Company_1443 Lda,Food Distributor,Bronze,10000
+1444,CUST-01444,Company_1444 Lda,Automotive,Silver,10000
+1445,CUST-01445,Company_1445 Lda,E-commerce,Silver,10000
+1446,CUST-01446,Company_1446 Lda,Retail,Bronze,500000
+1447,CUST-01447,Company_1447 Lda,Food Distributor,Bronze,10000
+1448,CUST-01448,Company_1448 Lda,E-commerce,Bronze,50000
+1449,CUST-01449,Company_1449 Lda,Manufacturing,Bronze,10000
+1450,CUST-01450,Company_1450 Lda,Food Distributor,Gold,50000
+1451,CUST-01451,Company_1451 Lda,Automotive,Silver,10000
+1452,CUST-01452,Company_1452 Lda,Food Distributor,Silver,50000
+1453,CUST-01453,Company_1453 Lda,E-commerce,Silver,150000
+1454,CUST-01454,Company_1454 Lda,Food Distributor,Bronze,150000
+1455,CUST-01455,Company_1455 Lda,Retail,Gold,150000
+1456,CUST-01456,Company_1456 Lda,Manufacturing,Silver,10000
+1457,CUST-01457,Company_1457 Lda,Food Distributor,Silver,50000
+1458,CUST-01458,Company_1458 Lda,Food Distributor,Silver,10000
+1459,CUST-01459,Company_1459 Lda,Retail,Bronze,10000
+1460,CUST-01460,Company_1460 Lda,Food Distributor,Silver,50000
+1461,CUST-01461,Company_1461 Lda,Pharmaceutical,Bronze,10000
+1462,CUST-01462,Company_1462 Lda,Food Distributor,Bronze,50000
+1463,CUST-01463,Company_1463 Lda,Retail,Bronze,500000
+1464,CUST-01464,Company_1464 Lda,Food Distributor,Gold,10000
+1465,CUST-01465,Company_1465 Lda,Manufacturing,Silver,50000
+1466,CUST-01466,Company_1466 Lda,Retail,Silver,10000
+1467,CUST-01467,Company_1467 Lda,Manufacturing,Silver,10000
+1468,CUST-01468,Company_1468 Lda,Automotive,Bronze,10000
+1469,CUST-01469,Company_1469 Lda,E-commerce,Gold,150000
+1470,CUST-01470,Company_1470 Lda,E-commerce,Bronze,150000
+1471,CUST-01471,Company_1471 Lda,Food Distributor,Bronze,150000
+1472,CUST-01472,Company_1472 Lda,E-commerce,Bronze,500000
+1473,CUST-01473,Company_1473 Lda,E-commerce,Silver,10000
+1474,CUST-01474,Company_1474 Lda,Automotive,Silver,10000
+1475,CUST-01475,Company_1475 Lda,Pharmaceutical,Bronze,50000
+1476,CUST-01476,Company_1476 Lda,Food Distributor,Bronze,10000
+1477,CUST-01477,Company_1477 Lda,E-commerce,Silver,10000
+1478,CUST-01478,Company_1478 Lda,E-commerce,Bronze,10000
+1479,CUST-01479,Company_1479 Lda,E-commerce,Silver,50000
+1480,CUST-01480,Company_1480 Lda,Automotive,Gold,50000
+1481,CUST-01481,Company_1481 Lda,E-commerce,Bronze,10000
+1482,CUST-01482,Company_1482 Lda,Retail,Bronze,10000
+1483,CUST-01483,Company_1483 Lda,Food Distributor,Silver,50000
+1484,CUST-01484,Company_1484 Lda,Retail,Silver,50000
+1485,CUST-01485,Company_1485 Lda,Pharmaceutical,Bronze,10000
+1486,CUST-01486,Company_1486 Lda,Pharmaceutical,Gold,50000
+1487,CUST-01487,Company_1487 Lda,Pharmaceutical,Bronze,10000
+1488,CUST-01488,Company_1488 Lda,Food Distributor,Bronze,10000
+1489,CUST-01489,Company_1489 Lda,Pharmaceutical,Silver,50000
+1490,CUST-01490,Company_1490 Lda,Automotive,Silver,50000
+1491,CUST-01491,Company_1491 Lda,Retail,Bronze,10000
+1492,CUST-01492,Company_1492 Lda,Pharmaceutical,Silver,50000
+1493,CUST-01493,Company_1493 Lda,Retail,Bronze,50000
+1494,CUST-01494,Company_1494 Lda,Retail,Bronze,50000
+1495,CUST-01495,Company_1495 Lda,Food Distributor,Bronze,50000
+1496,CUST-01496,Company_1496 Lda,Food Distributor,Silver,50000
+1497,CUST-01497,Company_1497 Lda,Food Distributor,Bronze,10000
+1498,CUST-01498,Company_1498 Lda,Automotive,Bronze,10000
+1499,CUST-01499,Company_1499 Lda,Pharmaceutical,Bronze,10000
+1500,CUST-01500,Company_1500 Lda,E-commerce,Silver,10000
